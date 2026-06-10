@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="format-detection" content="telephone=no">
+  <title>تعلم إشارات السير</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="card">
+
+      <div class="signs-topbar">
+        <a class="back-btn" href="index.html">→ الرئيسية</a>
+      </div>
+
+      <h1 class="title small">تعلم إشارات السير</h1>
+      <p class="sub">تعرّف على إشارات السير ومعانيها بسهولة</p>
+
+      <input id="search" class="signs-search" type="text" inputmode="search"
+             placeholder="🔍 ابحث عن إشارة (مثلاً: منعطف، توقف، سرعة)..." />
+
+      <div id="count" class="signs-count"></div>
+
+      <div id="grid" class="signs-grid"></div>
+      <div id="empty" class="signs-empty hidden">لا توجد نتائج مطابقة للبحث.</div>
+
+    </section>
+  </main>
+
+  <script>
+    const gridEl = document.getElementById('grid');
+    const countEl = document.getElementById('count');
+    const emptyEl = document.getElementById('empty');
+    const searchEl = document.getElementById('search');
+    let signs = [];
+
+    function render(list){
+      gridEl.innerHTML = '';
+      if(list.length === 0){
+        emptyEl.classList.remove('hidden');
+      } else {
+        emptyEl.classList.add('hidden');
+      }
+      const frag = document.createDocumentFragment();
+      for(const s of list){
+        const card = document.createElement('div');
+        card.className = 'sign-card';
+        const img = document.createElement('img');
+        img.src = s.image;
+        img.alt = s.meaning;
+        img.loading = 'lazy';
+        const p = document.createElement('div');
+        p.className = 'sign-meaning';
+        p.textContent = s.meaning;
+        card.appendChild(img);
+        card.appendChild(p);
+        frag.appendChild(card);
+      }
+      gridEl.appendChild(frag);
+      countEl.textContent = list.length + ' إشارة';
+    }
+
+    function applyFilter(){
+      const q = searchEl.value.trim();
+      if(!q){ render(signs); return; }
+      const filtered = signs.filter(s => s.meaning.includes(q));
+      render(filtered);
+    }
+
+    searchEl.addEventListener('input', applyFilter);
+
+    // Build the sign list from the car quiz data (single source of truth)
+    fetch('car_questions.json')
+      .then(r => r.json())
+      .then(data => {
+        const seen = new Set();
+        for(const q of data){
+          if(!q.image) continue;
+          if(seen.has(q.image)) continue;
+          seen.add(q.image);
+          const meaning = (q.choices && q.choices[q.correctIndex]) ? q.choices[q.correctIndex] : '';
+          signs.push({ image: q.image, meaning });
+        }
+        render(signs);
+      })
+      .catch(() => {
+        countEl.textContent = 'تعذّر تحميل الإشارات. حاول تحديث الصفحة.';
+      });
+  </script>
+</body>
+</html>
