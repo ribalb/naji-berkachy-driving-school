@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>الاختبار</title>
+  <title data-i18n-title="quiz.pageTitle">الاختبار</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -13,7 +13,7 @@
       <!-- QUIZ VIEW -->
       <div id="quizView">
         <div class="header">
-          <h1 class="title small"> اختبار قيادة السيارات عمومي</h1>
+          <h1 class="title small" data-i18n="quiz.title.public"> اختبار قيادة السيارات عمومي</h1>
           <div id="userName" class="sub user-name"></div>
           <div id="userPhone" class="sub user-phone"></div>
         </div>
@@ -32,23 +32,23 @@
         <div id="feedback" class="feedback hidden"></div>
 
         <div class="actions">
-          <button id="confirmBtn" class="btn btn-secondary" disabled>تأكيد الإجابة</button>
-          <button id="nextBtn" class="btn btn-primary" disabled>السؤال التالي</button>
+          <button id="confirmBtn" class="btn btn-secondary" disabled data-i18n="quiz.confirm">تأكيد الإجابة</button>
+          <button id="nextBtn" class="btn btn-primary" disabled data-i18n="quiz.next">السؤال التالي</button>
         </div>
       </div>
 
       <!-- RESULTS VIEW -->
       <div id="resultsView" class="hidden">
         <div class="header">
-          <h1 class="title small">النتيجة</h1>
+          <h1 class="title small" data-i18n="quiz.result">النتيجة</h1>
           <div id="resultUser" class="sub"></div>
         </div>
 
         <div id="scoreBox" class="score-box"></div>
 
         <div class="results-actions">
-          <button id="retryBtn" class="btn btn-primary">إعادة اختبار (30 سؤال)</button>
-          <button id="homeBtn" class="btn btn-secondary">الرجوع للرئيسية</button>
+          <button id="retryBtn" class="btn btn-primary" data-i18n="quiz.retry">إعادة اختبار (30 سؤال)</button>
+          <button id="homeBtn" class="btn btn-secondary" data-i18n="quiz.home">الرجوع للرئيسية</button>
         </div>
 
         <div id="reviewList" class="review-list"></div>
@@ -57,6 +57,7 @@
     </section>
   </main>
 
+  <script src="i18n.js?v=1"></script>
   <script src="red_app.js"></script>
 </body>
 </html>

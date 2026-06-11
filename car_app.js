@@ -1,6 +1,17 @@
 // car_app.js — Random 30 questions + confirm answer + end results review (Arabic UI)
 
 let QUESTIONS = [];
+
+// --- i18n helpers (English fields fall back to Arabic) ---
+function qField(q){
+  return (window.I18N && window.I18N.isEn() && q["question_en"] != null && String(q["question_en"]).trim() !== "")
+    ? q["question_en"] : (q["question"] || "");
+}
+function qChoices(q){
+  return (window.I18N && window.I18N.isEn() && Array.isArray(q["choices_en"]))
+    ? q["choices_en"] : (q["choices"] || []);
+}
+
 let quiz = {
   list: [],
   index: 0,
@@ -69,7 +80,7 @@ function setProgress() {
 
   const counterEl = document.getElementById("qCounterTop");
   if (counterEl) {
-    counterEl.textContent = `السؤال ${quiz.index + 1} من ${quiz.list.length}`;
+    counterEl.textContent = `${I18N.t("quiz.qof",{i:quiz.index+1,n:quiz.list.length})}`;
   }
 }
 
@@ -98,7 +109,7 @@ function renderQuestion() {
     qImgEl.src = q.image;
     qImgEl.classList.remove("hidden");
 
-    const t = ((q.question || "")).trim();
+    const t = ((qField(q) || "")).trim();
     if (t === "") {
       qTextEl.textContent = "";
       qTextEl.classList.add("hidden");
@@ -110,14 +121,14 @@ function renderQuestion() {
     qImgEl.removeAttribute("src");
     qImgEl.classList.add("hidden");
 
-    qTextEl.textContent = (q && q.question) ? q.question : "";
+    qTextEl.textContent = (q && qField(q)) ? qField(q) : "";
     qTextEl.classList.remove("hidden");
   }
 
   const box = document.getElementById("choices");
   box.innerHTML = "";
 
-  (q.choices || []).forEach((text, idx) => {
+  (qChoices(q) || []).forEach((text, idx) => {
     if (String(text || "").trim() === "") return;
 
     const btn = document.createElement("button");
@@ -202,10 +213,10 @@ function showResults() {
   const passed = quiz.score >= 24;
 
   document.getElementById("scoreBox").innerHTML = `
-    <div class="score-title">علامتك</div>
+    <div class="score-title">${I18N.t("quiz.yourScore")}</div>
     <div class="score-value">${quiz.score} / ${quiz.list.length}</div>
     <div class="result-status ${passed ? "pass" : "fail"}">
-      النتيجة: ${passed ? "ناجح" : "راسب"}
+      ${I18N.t("quiz.resultLbl")} ${passed ? I18N.t("quiz.pass") : I18N.t("quiz.fail")}
     </div>
   `;
 
@@ -216,19 +227,19 @@ function showResults() {
     const a = quiz.answers[i] || { chosenIndex: null, correctIndex: q.correctIndex };
 
     const chosenText =
-      (a.chosenIndex !== null && q.choices[a.chosenIndex] !== undefined)
-        ? q.choices[a.chosenIndex]
-        : "لم تُجب";
+      (a.chosenIndex !== null && qChoices(q)[a.chosenIndex] !== undefined)
+        ? qChoices(q)[a.chosenIndex]
+        : I18N.t("quiz.notAns");
 
     const correctText =
-      (typeof a.correctIndex === "number" && q.choices[a.correctIndex] !== undefined)
-        ? q.choices[a.correctIndex]
-        : "غير متوفر";
+      (typeof a.correctIndex === "number" && qChoices(q)[a.correctIndex] !== undefined)
+        ? qChoices(q)[a.correctIndex]
+        : I18N.t("quiz.na");
 
     const isCorrect =
       (typeof a.correctIndex === "number") && (a.chosenIndex === a.correctIndex);
 
-    const qText = ((q.question || "")).trim();
+    const qText = ((qField(q) || "")).trim();
     const hasImg = q.image && String(q.image).trim() !== "";
 
     const item = document.createElement("div");
@@ -236,19 +247,19 @@ function showResults() {
 
     item.innerHTML = `
       <div class="review-q">
-        <div class="review-num">سؤال ${i + 1}</div>
+        <div class="review-num">${I18N.t("quiz.qnum",{i:i+1})}</div>
         ${hasImg ? `<img class="qimg" src="${q.image}" alt="question image">` : ""}
         ${qText ? `<div class="review-text">${qText}</div>` : ""}
       </div>
 
       <div class="review-answers">
         <div class="ans-row ${isCorrect ? "ans-ok" : "ans-bad"}">
-          <span class="ans-label">إجابتك:</span>
+          <span class="ans-label">${I18N.t("quiz.yourAns")}</span>
           <span class="ans-value">${chosenText}</span>
         </div>
 
         <div class="ans-row ans-ok">
-          <span class="ans-label">الصحيح:</span>
+          <span class="ans-label">${I18N.t("quiz.correct")}</span>
           <span class="ans-value">${correctText}</span>
         </div>
       </div>

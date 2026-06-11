@@ -7,7 +7,13 @@
       "إستعمال الزمور",
       "تشغيل الإضاءة المنخفضة (أضواء التلاقي) وزيادة السرعة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When entering a tunnel while driving during the day, you must:",
+    "choices_en": [
+      "Turn on the low-beam (dipped) headlights and reduce speed",
+      "Use the horn",
+      "Turn on the low-beam (dipped) headlights and increase speed"
+    ]
   },
   {
     "id": 2,
@@ -17,7 +23,13 @@
       "استعمال اضواء الطريق (الاضاءة العالية)",
       "عدم استعمال الضوء"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When driving a vehicle at night behind another vehicle, you must:",
+    "choices_en": [
+      "Turn on the low-beam (dipped) headlights",
+      "Use the high-beam headlights",
+      "Not use any lights"
+    ]
   },
   {
     "id": 3,
@@ -27,7 +39,13 @@
       "تقطيع الضوء بتبديله بين ضوء الطريق وضوء التلاقي",
       "الإنتقال إلى ضوء التلاقي"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If a vehicle appears from the opposite direction while you are using high-beam headlights at night, you must:",
+    "choices_en": [
+      "Turn off the lights completely",
+      "Flash the lights by switching between high beam and dipped beam",
+      "Switch to the dipped (low) beam"
+    ]
   },
   {
     "id": 4,
@@ -37,7 +55,13 @@
       "أن تطفئ محرك المركبة",
       "أن تبقي المحرك شغالاً"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When refueling your vehicle's tank, you must:",
+    "choices_en": [
+      "Not worry, because this poses no danger at all",
+      "Turn off the vehicle's engine",
+      "Keep the engine running"
+    ]
   },
   {
     "id": 5,
@@ -47,7 +71,13 @@
       "متابعة سيرك بانتباه",
       "تركيز نظرك على الاشارة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When the signal changes from green to yellow at the moment your vehicle is crossing the intersection, you must:",
+    "choices_en": [
+      "Stop immediately in the middle of the intersection",
+      "Continue carefully on your way",
+      "Focus your gaze on the signal"
+    ]
   },
   {
     "id": 6,
@@ -57,7 +87,13 @@
       "ألا تهتم للأمر لأن النعاس سيزول سريعًا",
       "أن توقف فورًا في مكانٍ آمن لتأخذ قسطًا من الراحة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When you feel very drowsy while driving, you must:",
+    "choices_en": [
+      "Take stimulant drugs and continue driving",
+      "Not worry about it because the drowsiness will pass quickly",
+      "Stop immediately in a safe place to take some rest"
+    ]
   },
   {
     "id": 7,
@@ -67,7 +103,13 @@
       "بالاشارة الضوئية فقط",
       "باشارة السير الثابتة فقط"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When approaching an intersection where a police officer is directing traffic, and there is a traffic light and a fixed traffic sign, you must comply with:",
+    "choices_en": [
+      "The traffic officer's instructions",
+      "The traffic light only",
+      "The fixed traffic sign only"
+    ]
   },
   {
     "id": 8,
@@ -77,7 +119,13 @@
       "يربط حزام الأمان، ثم يعدّل المرايا، ثم يعدّل المقعد، بهذا الترتيب",
       "يربط حزام الأمان، ثم يعدّل المقعد، ثم يعدّل المرايا، بهذا الترتيب"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "As soon as the driver sits behind the wheel, the first thing they must do is:",
+    "choices_en": [
+      "Adjust the seat, then adjust the mirrors, then fasten the seat belt, in this order",
+      "Fasten the seat belt, then adjust the mirrors, then adjust the seat, in this order",
+      "Fasten the seat belt, then adjust the seat, then adjust the mirrors, in this order"
+    ]
   },
   {
     "id": 9,
@@ -87,7 +135,13 @@
       "يقوم بفحص روتيني لمختلف أنظمة المركبة",
       "لا يقوم بأي فحص طالما أن المحرّك يعمل"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Every day, before setting off with the vehicle or motorcycle for the first time, the driver must:",
+    "choices_en": [
+      "Listen to the weather forecast",
+      "Carry out a routine check of the vehicle's various systems",
+      "Not carry out any check as long as the engine is running"
+    ]
   },
   {
     "id": 10,
@@ -97,7 +151,13 @@
       "استعمل الهاتف",
       "استمع الى الراديو بصوت منخفض"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "It is acceptable for the driver while driving to:",
+    "choices_en": [
+      "Read the newspaper",
+      "Use the phone",
+      "Listen to the radio at a low volume"
+    ]
   },
   {
     "id": 11,
@@ -107,7 +167,13 @@
       "قبل الإنطلاق",
       "قبل تشغيل المحرك"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The driver and passengers must fasten their seat belts:",
+    "choices_en": [
+      "Within one minute of setting off",
+      "Before setting off",
+      "Before starting the engine"
+    ]
   },
   {
     "id": 12,
@@ -117,7 +183,13 @@
       "استعماله كوسادة للنوم ليلاً في الرحلات الطويلة",
       "إراحة الرأس أثناء الرحلة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The purpose of the head restraint at the top of the seat is:",
+    "choices_en": [
+      "To prevent neck injury or whiplash if the vehicle is hit from behind",
+      "To use it as a pillow for sleeping at night on long trips",
+      "To rest the head during the trip"
+    ]
   },
   {
     "id": 13,
@@ -127,7 +199,13 @@
       "الإرهاق والنعاس",
       "القيادة داخل المدينة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The driver's ability to concentrate while driving is reduced by:",
+    "choices_en": [
+      "Being energetic and active",
+      "Fatigue and drowsiness",
+      "Driving within the city"
+    ]
   },
   {
     "id": 14,
@@ -137,7 +215,13 @@
       "سلبي",
       "سلبي وإيجابي معًا"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Using a mobile phone while driving affects the driver's driving in a way that is:",
+    "choices_en": [
+      "Positive",
+      "Negative",
+      "Both negative and positive"
+    ]
   },
   {
     "id": 15,
@@ -147,7 +231,13 @@
       "ألا يقود حتى ينتهي مفعول الكحول",
       "ألا يبالي للأمر"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The first piece of advice for a driver who has consumed alcohol is:",
+    "choices_en": [
+      "To drive at a low speed",
+      "Not to drive until the effect of the alcohol wears off",
+      "Not to care about it"
+    ]
   },
   {
     "id": 16,
@@ -157,7 +247,13 @@
       "اقل تعبا",
       "غير خطيرة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Driving under the influence of sleeping medication is:",
+    "choices_en": [
+      "Dangerous",
+      "Less tiring",
+      "Not dangerous"
+    ]
   },
   {
     "id": 17,
@@ -167,7 +263,13 @@
       "تشدّ فرامل اليد",
       "تصغّر ترس السرعة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the accelerator pedal gets stuck while driving, you must immediately:",
+    "choices_en": [
+      "Turn off the engine without locking the steering wheel",
+      "Apply the handbrake",
+      "Shift down to a lower gear"
+    ]
   },
   {
     "id": 18,
@@ -177,7 +279,13 @@
       "تخفّف السرعة تدريجيًا لتوقف المركبة الى جانب الطريق",
       "تضغط على الفرامل بشدّة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "If the engine hood suddenly opens while the vehicle is moving, you must immediately:",
+    "choices_en": [
+      "Increase your speed slightly",
+      "Reduce speed gradually to stop the vehicle at the side of the road",
+      "Brake hard"
+    ]
   },
   {
     "id": 19,
@@ -187,7 +295,13 @@
       "في وقت متأخر عن المعتاد",
       "متفائلا بالخير"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "In case of heavy rain, and in order for the skilled driver to avoid being late, they should start their journey:",
+    "choices_en": [
+      "Earlier than usual",
+      "Later than usual",
+      "Hoping for the best"
+    ]
   },
   {
     "id": 20,
@@ -197,7 +311,13 @@
       "ينظر تحت المركبة ويدور حولها",
       "يربط حزام الأمان"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Before the driver gets into their vehicle, the first thing they must do is:",
+    "choices_en": [
+      "Make sure they have enough time",
+      "Look under the vehicle and walk around it",
+      "Fasten the seat belt"
+    ]
   },
   {
     "id": 21,
@@ -207,7 +327,13 @@
       "30 ثانية",
       "4 إلى 8 ثواني"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "While driving on congested roads, the driver must take a quick glance at the mirrors once every:",
+    "choices_en": [
+      "45 seconds",
+      "30 seconds",
+      "4 to 8 seconds"
+    ]
   },
   {
     "id": 22,
@@ -217,448 +343,717 @@
       "المرآة اليمنى فقط",
       "كل المرايا وخاصة في المرآة اليمنى والبقعة العمياء"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the driver wants to turn their vehicle to the right, before turning they must look in:",
+    "choices_en": [
+      "The left mirror only",
+      "The right mirror only",
+      "All the mirrors, especially the right mirror and the blind spot"
+    ]
   },
   {
-  "id": 23,
-  "question": "الخطر الأكبر الذي تشكله المركبات المتوقفة الى جانب الرصيف الأيمن على السائق المار بقربها هو:",
-  "choices": [
-    "خروج المشاة وخاصة الأطفال من بين تلك المركبات المتوقفة",
-    "رمي النفايات منها",
-    "ارتفاع صوت الراديو منها"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 24,
-  "question": "الخطر الذي تشكله المركبات المتوقفة الى جانب الرصيف الأيمن على السائق المار بقربها هو:",
-  "choices": [
-    "احتمال انطلاق إحداها ودخولها السير فجأة",
-    "إصدارها صوت جهاز انذار السرقة",
-    "فتح صندوق الأمتعة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 25,
-  "question": "كسائق إحترازي عليك أن:",
-  "choices": [
-    "أن لا تتنازل عن أفضليتك بالمرور",
-    "تأخذ أفضليتك بالمرور عنوة لأنها من حقك",
-    "تتنازل عن أفضليتك بالمرور منعا للحادث"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 26,
-  "question": "أثناء القيادة، وقبل استعمالك للفرامل، عليك أولاً أن تنظر:",
-  "choices": [
-    "في المرايا وخاصة في المرآة الداخلية",
-    "إلى يمينك",
-    "إلى يسارك"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 27,
-  "question": "إن نظام منع إنغلاق الفرامل (ABS) في المركبات الحديثة في حالة الفرملة الشديدة:",
-  "choices": [
-    "من الطبيعي أن يسبب ارتجاجاً في دوّاسة الفرامل فقط",
-    "من الطبيعي أن يصدر ضوضاء وأن يسبب ارتجاجاً في دوّاسة الفرامل",
-    "ليس من الطبيعي أن يصدر ضوضاء وأن يسبب ارتجاجاً في دوّاسة الفرامل"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 28,
-  "question": "من حسنات نظام منع انغلاق الفرامل (ABS) في المركبات الحديثة، في حالة الفرملة الشديدة، أنّه:",
-  "choices": [
-    "يمنع انغلاق الفرامل فقط",
-    "لا يمنع انغلاق الفرامل، ولا يمكّن السائق من توجيه المركبة",
-    "يمنع انغلاق الفرامل، ويمكّن السائق من توجيه المركبة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 29,
-  "question": "عند تعرّض مركبتك للإنزلاق، عليك، وبسرعة بديهة، أن:",
-  "choices": [
-    "تضغط الفرامل وتوجّه مركبتك بعكس اتجاه مؤخّرتها",
-    "ترفع قدمك عن دواسة الوقود ولا تضغط على الفرامل، وأن توجّه المركبة الى جهة الانزلاق",
-    "تزيد السرعة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 30,
-  "question": "إن تركك لمسافة أمان بين مركبتك والمركبة التي أمامك مباشرة أثناء السير يمكنك من:",
-  "choices": [
-    "تفادي اصدامك بها في حال توقفت فجأة",
-    "التمتع بالمناظر الخلابة حولك",
-    "قراءة لوحة تسجيل تلك المركبة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 31,
-  "question": "لحظة انطلاق المركبة التي أمامك مباشرة عند تحوّل ضوء اشارة المرور من اللون الاحمر إلى اللون الاخضر:",
-  "choices": [
-    "تنطلق فورًا بمركبتك خلفها وبسرعة",
-    "تزمر",
-    "تتأكد من خلو الطريق ثم تنطلق بمركبتك"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 32,
-  "question": "عندما تقترب بمركبتك من إشارة مرور ضوئية تصدر ضوء واحد اصفر متقطّع، يجب عليك أن:",
-  "choices": [
-    "تربط حزام الأمان",
-    "تعطي الأفضلية",
-    "تتوقف"
+    "id": 23,
+    "question": "الخطر الأكبر الذي تشكله المركبات المتوقفة الى جانب الرصيف الأيمن على السائق المار بقربها هو:",
+    "choices": [
+      "خروج المشاة وخاصة الأطفال من بين تلك المركبات المتوقفة",
+      "رمي النفايات منها",
+      "ارتفاع صوت الراديو منها"
     ],
-    "correctIndex": 1
-},
-{
-  "id": 33,
-  "question": "إن وضع حزام الأمان:",
-  "choices": [
-    "غير ضروري بالمطلق",
-    "ضروري للراكبين الأماميين فقط",
-    "ضروري لجميع ركاب السيارة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 34,
-  "question": "في حال حصول تعطّل فجائي في السيارة وأنت تسير بها على الطريق العام، عليك أن:",
-  "choices": [
-    "تغادر الطريق العام عند أقرب مسافة",
-    "توقف السيارة فورًا حيث أنت",
-    "تتابع السير إلى المكان الذي تقصد"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 35,
-  "question": "يجب على السائق أن يمسك بالمقود:",
-  "choices": [
-    "بيد واحدة",
-    "بكلتا اليدين",
-    "بأصابع اليدين"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 36,
-  "question": "لا يجوز أن يزيد عدد الركاب في الشاحنة المحملة عن:",
-  "choices": [
-    "شخص واحد",
-    "العدد المحدد في الرخصة",
-    "لا يحق لها نقل أي شخص"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 37,
-  "question": "عند ربط القاطرة بالمقطورة، على السائق أن يتأكد من أن:",
-  "choices": [
-    "مكابح المقطورة مشدودة وأرجلها تلامس الأرض",
-    "مكابح المقطورة غير مشدودة وأرجلها تلامس الأرض",
-    "المقطورة تلامس الأرض على رجل واحدة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 38,
-  "question": "بعد ربط القاطرة بالمقطورة على السائق أن ينتبه إلى أنّ",
-  "choices": [
-    "خطوط الهواء والأسلاك الكهربائية موصولة بشكل جيّد",
-    "خطوط الهواء فقط موصولة بشكل جيّد",
-    "الأسلاك الكهربائية فقط موصولة بشكل جيّد"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 39,
-  "question": "عند الشروع بربط القاطرة بالمقطورة على السائق أن:",
-  "choices": [
-    "يرجع القاطرة ببطء فوق المقطورة",
-    "يرجع القاطرة بسرعة تحت المقطورة",
-    "يرجع القاطرة ببطء تحت المقطورة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 40,
-  "question": "عند فصل القاطرة عن المقطورة، على السائق أن يختار مكانًا:",
-  "choices": [
-    "منحدرًا وليّنًا.",
-    "مسطّحًا وليناً.",
-    "منحدرًا وصلبًا."
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 41,
-  "question": "عند فصل القاطرة عن المقطورة على السائق أن:",
-  "choices": [
-    "يشد فرامل المقطورة ولا ينزل أرجلها الى اقصى حد",
-    "يشد فرامل المقطورة وينزل أرجلها الى اقصى حد",
-    "لا يشد فرامل المقطورة وينزل أرجلها الى اقصى حد"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 42,
-  "question": "لسائق المركبة الثقيلة بقع عمياء حول مركبته وعددها:",
-  "choices": [
-    "أربع بقع عمياء على الأقل",
-    "ثماني بقع عمياء على الأقل",
-    "ثلاث بقع عمياء"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 43,
-  "question": "على سائق المركبة الثقيلة أن ينتبه الى ارتفاع مركبته خاصة:",
-  "choices": [
-    "عند مروره فوق جسر",
-    "عند مروره تحت جسر أو دخوله في نفق",
-    "عندما يقود على طرقات مفتوحة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 44,
-  "question": "على كل سائق مركبة ثقيلة أن ينتبه الى عرض مركبته خاصة:",
-  "choices": [
-    "عند قيادته في الطرق المفتوحة",
-    "عند أخذه قسطًا من الراحة",
-    "عند تجاوزه لمركبة أخرى"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 45,
-  "question": "على سائق المركبة الثقيلة أن:",
-  "choices": [
-    "يرجع إلى الخلف في الأماكن المكتظة",
-    "يرجع إلى الخلف بعد التقاطع مباشرة",
-    "يتفادى الرجوع الى الخلف في الأماكن المكتظة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 46,
-  "question": "التعامل مع المركبات الثقيلة يختلف عنه مع المركبات الصغيرة، فعند انعطاف سائق المركبة الثقيلة الى اليمين:",
-  "choices": [
-    "لا يجب ترك مسافة كافية لجهة اليمين",
-    "يجب ترك مسافة كافية في الأمام",
-    "يجب ترك مسافة كافية لجهة اليمين"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 47,
-  "question": "حين تقود مركبتك الثقيلة في منعطف يسار، وكي تتفادى عبور عجلاتك اليسرى الخلفية لخط وسط الطريق، عليك أن:",
-  "choices": [
-    "تأخذ أقصى يسارك خلال المنعطف",
-    "تأخذ يمينك قليلا خلال المنعطف",
-    "تزيد سرعتك خلال المنعطف"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 48,
-  "question": "حين تقود مركبتك الثقيلة في منعطف يمين، وكي تتفادى نزول عجلاتك اليمنى الخلفية عن حافة الطريق، عليك أن:",
-  "choices": [
-    "تقود مركبتك في وسط مسربك",
-    "تأخذ أقصى يمينك خلال المنعطف",
-    "تزيد سرعتك خلال المنعطف"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 49,
-  "question": "عند اقترابك من رأس مرتفع للطريق، عليك أن تتوقع خلف القمة:",
-  "choices": [
-    "طريق مستقيم",
-    "وجود عقبات",
-    "عدم وجود عقبات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 50,
-  "question": "للسيطرة على مركبتك وأنت تقودها على المنحدرات، يجب عليك أن تعتمد بشكل اساسي على استعمال:",
-  "choices": [
-    "الفرامل",
-    "فرامل اليد",
-    "ترس منخفض"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 51,
-  "question": "استعمال المكابح الرئيسية في المركبة بشكل متواصل على منحدر طويل يبطل مفعول المكابح بسبب:",
-  "choices": [
-    "إزدياد حرارتها",
-    "ضغط سائل الكبح",
-    "قوة المنحدر"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 52,
-  "question": "إذا دخلت منحدرا طويلا بمركبتك الثقيلة وتأخرت بالانتقال الى ترس سرعة منخفض وأصبحت سرعتك:",
-  "choices": [
-    "يصبح من السهل عليك الانتقال الى ترس سرعة منخفض",
-    "يصبح من المستحيل الانتقال الى ترس سرعة منخفض للسيطرة على المركبة",
-    "يصبح بإمكانك تجاوز المركبات بالجملة وبشكل آمن"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 53,
-  "question": "عند قيادتك لمركبتك الثقيلة صعوداً متواصلا يجب عليك:",
-  "choices": [
-    "تجنب اجهاد المحرّك",
-    "التزام الجهة اليسرى",
-    "عدم السماح للمركبات الصغيرة بتجاوزك"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 54,
-  "question": "عند قيادتك لمركبتك الثقيلة صعوداً متواصلا عليك:",
-  "choices": [
-    "التزام اقصى اليمين قدر المستطاع",
-    "التزام اقصى اليسار قدر المستطاع"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 55,
-  "question": "اذا كنت تريد أن تتجاوز بمركبتك الثقيلة مركبة اخرى صعوداً وكان ذلك سيستغرق وقتا طويلا فعليك أن:",
-  "choices": [
-    "تصرّ على القيام بهذا التجاوز",
-    "تزيد من سرعتك فوق الحد المسموح",
-    "تصرف النظر عن هذا التجاوز"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 56,
-  "question": "قيادة المركبة الثقيلة على طريق وعرة تحتم عليك أن:",
-  "choices": [
-    "تركز اهتمامك الى الخلف",
-    "تزيد من سرعتك قليلا",
-    "تكون حذرا وأن تخطط للطريق مسبقا"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 57,
-  "question": "التواصل عن طريق التقاء النظر بين السائقين عند التقاطع:",
-  "choices": [
-    "هو امر محظر على السائقين",
-    "يساعد على حل الالتباس المروري بين السائقين",
-    "هو من انواع التنبه"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 58,
-  "question": "لمنع الحوادث يقع على سائق المركبة أن يتفادى قدر استطاعته:",
-  "choices": [
-    "الرجوع بمركبته الى الخلف",
-    "التوقف التدريجي",
-    "غسل مركبته على الطريق"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 59,
-  "question": "يلزمك القانون بإعطاء الافضلية:",
-  "choices": [
-    "للحافلات المدرسية المستخدمة لأنوار التحذير.",
-    "للسائقات",
-    "للمركبات المسرعة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 60,
-  "question": "يلزم القانون مجمل السائقين باعطاء الافضلية للمركبات:",
-  "choices": [
-    "الموجودة داخل المستديرة",
-    "الداخلة الى المستديرة",
-    "الموجودة الى يمين المركبة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 61,
-  "question": "القانون يسمح بتركين المركبة (ايقافها وتركها) بشكل مواز للرصيف على طريق ذو مسلكين متعاكسين:",
-  "choices": [
-    "على يمين اتجاه سير المركبة",
-    "لا تهتم الجهة طالما أنها لا تعيق حركة السير",
-    "على يسار الطريق"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 62,
-  "question": "إسراف سائق المركبة في الطعام:",
-  "choices": [
-    "يمكنه من القيادة بشكل أسلم",
-    "يسبب له البلادة وصعوبة في اتخاذ القرارات الصائبة خلال القيادة",
-    "يمكنه من القيادة على سرعات عالية جدا"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 63,
-  "question": "قلة النوم لسائق المركبة:",
-  "choices": [
-    "تساعده على تحسين ردة فعله",
-    "تبطئ ردات فعله أثناء القيادة وتسبب له فقدان طفيف للذاكرة",
-    "تساعده على الإنتباه"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 64,
-  "question": "خلال الرحلات الطويلة، على سائق المركبة أن يتوقف للراحة كل:",
-  "choices": [
-    "4 ساعات",
-    "10 ساعات",
-    "8 ساعات"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 65,
-  "question": "خلال الرحلات الطويلة، من الأفضل لسائق المركبة أن يتوقف للراحة كل:",
-  "choices": [
-    "900 كلم",
-    "750 كلم",
-    "250 كلم"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 66,
-  "question": "تأثير الكحول على سائق المركبة أثناء القيادة:",
-  "choices": [
-    "يمكن أن يكون قاتلا للسائقين وللآخرين",
-    "يشكل خطرًا على الآخرين فقط",
-    "يشكل خطرًا على السائق"
-  ],
-  "correctIndex": 0
-},
-{
+    "correctIndex": 0,
+    "question_en": "The greatest danger posed by vehicles parked along the right curb to a driver passing near them is:",
+    "choices_en": [
+      "Pedestrians, especially children, emerging from between those parked vehicles",
+      "Trash being thrown from them",
+      "Loud radio sound coming from them"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "الخطر الذي تشكله المركبات المتوقفة الى جانب الرصيف الأيمن على السائق المار بقربها هو:",
+    "choices": [
+      "احتمال انطلاق إحداها ودخولها السير فجأة",
+      "إصدارها صوت جهاز انذار السرقة",
+      "فتح صندوق الأمتعة"
+    ],
+    "correctIndex": 0,
+    "question_en": "The danger posed by vehicles parked along the right curb to a driver passing near them is:",
+    "choices_en": [
+      "The possibility that one of them sets off and suddenly enters the traffic",
+      "Their theft alarm going off",
+      "Their luggage trunk opening"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "كسائق إحترازي عليك أن:",
+    "choices": [
+      "أن لا تتنازل عن أفضليتك بالمرور",
+      "تأخذ أفضليتك بالمرور عنوة لأنها من حقك",
+      "تتنازل عن أفضليتك بالمرور منعا للحادث"
+    ],
+    "correctIndex": 2,
+    "question_en": "As a cautious driver, you must:",
+    "choices_en": [
+      "Not give up your right of way",
+      "Take your right of way by force because it is your right",
+      "Give up your right of way to prevent an accident"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "أثناء القيادة، وقبل استعمالك للفرامل، عليك أولاً أن تنظر:",
+    "choices": [
+      "في المرايا وخاصة في المرآة الداخلية",
+      "إلى يمينك",
+      "إلى يسارك"
+    ],
+    "correctIndex": 0,
+    "question_en": "While driving, and before applying the brakes, you must first look:",
+    "choices_en": [
+      "In the mirrors, especially the interior mirror",
+      "To your right",
+      "To your left"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "إن نظام منع إنغلاق الفرامل (ABS) في المركبات الحديثة في حالة الفرملة الشديدة:",
+    "choices": [
+      "من الطبيعي أن يسبب ارتجاجاً في دوّاسة الفرامل فقط",
+      "من الطبيعي أن يصدر ضوضاء وأن يسبب ارتجاجاً في دوّاسة الفرامل",
+      "ليس من الطبيعي أن يصدر ضوضاء وأن يسبب ارتجاجاً في دوّاسة الفرامل"
+    ],
+    "correctIndex": 1,
+    "question_en": "The anti-lock braking system (ABS) in modern vehicles, in the case of heavy braking:",
+    "choices_en": [
+      "Normally causes only a vibration in the brake pedal",
+      "Normally makes a noise and causes a vibration in the brake pedal",
+      "Does not normally make a noise or cause a vibration in the brake pedal"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "من حسنات نظام منع انغلاق الفرامل (ABS) في المركبات الحديثة، في حالة الفرملة الشديدة، أنّه:",
+    "choices": [
+      "يمنع انغلاق الفرامل فقط",
+      "لا يمنع انغلاق الفرامل، ولا يمكّن السائق من توجيه المركبة",
+      "يمنع انغلاق الفرامل، ويمكّن السائق من توجيه المركبة"
+    ],
+    "correctIndex": 2,
+    "question_en": "Among the benefits of the anti-lock braking system (ABS) in modern vehicles, in the case of heavy braking, is that it:",
+    "choices_en": [
+      "Only prevents the brakes from locking",
+      "Does not prevent the brakes from locking, and does not allow the driver to steer the vehicle",
+      "Prevents the brakes from locking, and allows the driver to steer the vehicle"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "عند تعرّض مركبتك للإنزلاق، عليك، وبسرعة بديهة، أن:",
+    "choices": [
+      "تضغط الفرامل وتوجّه مركبتك بعكس اتجاه مؤخّرتها",
+      "ترفع قدمك عن دواسة الوقود ولا تضغط على الفرامل، وأن توجّه المركبة الى جهة الانزلاق",
+      "تزيد السرعة"
+    ],
+    "correctIndex": 1,
+    "question_en": "When your vehicle skids, you must, with quick reflexes:",
+    "choices_en": [
+      "Press the brakes and steer your vehicle in the opposite direction of its rear",
+      "Lift your foot off the accelerator and do not press the brakes, and steer the vehicle in the direction of the skid",
+      "Increase the speed"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "إن تركك لمسافة أمان بين مركبتك والمركبة التي أمامك مباشرة أثناء السير يمكنك من:",
+    "choices": [
+      "تفادي اصدامك بها في حال توقفت فجأة",
+      "التمتع بالمناظر الخلابة حولك",
+      "قراءة لوحة تسجيل تلك المركبة"
+    ],
+    "correctIndex": 0,
+    "question_en": "Leaving a safe distance between your vehicle and the vehicle directly in front of you while driving enables you to:",
+    "choices_en": [
+      "Avoid colliding with it if it stops suddenly",
+      "Enjoy the beautiful scenery around you",
+      "Read the license plate of that vehicle"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "لحظة انطلاق المركبة التي أمامك مباشرة عند تحوّل ضوء اشارة المرور من اللون الاحمر إلى اللون الاخضر:",
+    "choices": [
+      "تنطلق فورًا بمركبتك خلفها وبسرعة",
+      "تزمر",
+      "تتأكد من خلو الطريق ثم تنطلق بمركبتك"
+    ],
+    "correctIndex": 2,
+    "question_en": "At the moment the vehicle directly in front of you sets off when the traffic light changes from red to green:",
+    "choices_en": [
+      "Set off immediately behind it at speed",
+      "Honk the horn",
+      "Make sure the road is clear, then set off with your vehicle"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "عندما تقترب بمركبتك من إشارة مرور ضوئية تصدر ضوء واحد اصفر متقطّع، يجب عليك أن:",
+    "choices": [
+      "تربط حزام الأمان",
+      "تعطي الأفضلية",
+      "تتوقف"
+    ],
+    "correctIndex": 1,
+    "question_en": "When you approach a traffic light showing a single flashing yellow light, you must:",
+    "choices_en": [
+      "Fasten the seat belt",
+      "Give the right of way",
+      "Stop"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "إن وضع حزام الأمان:",
+    "choices": [
+      "غير ضروري بالمطلق",
+      "ضروري للراكبين الأماميين فقط",
+      "ضروري لجميع ركاب السيارة"
+    ],
+    "correctIndex": 2,
+    "question_en": "Wearing the seat belt is:",
+    "choices_en": [
+      "Not necessary at all",
+      "Necessary for the front passengers only",
+      "Necessary for all the vehicle's occupants"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "في حال حصول تعطّل فجائي في السيارة وأنت تسير بها على الطريق العام، عليك أن:",
+    "choices": [
+      "تغادر الطريق العام عند أقرب مسافة",
+      "توقف السيارة فورًا حيث أنت",
+      "تتابع السير إلى المكان الذي تقصد"
+    ],
+    "correctIndex": 0,
+    "question_en": "In case of a sudden breakdown in the car while you are driving it on the public road, you must:",
+    "choices_en": [
+      "Leave the public road at the nearest opportunity",
+      "Stop the car immediately where you are",
+      "Continue driving to your intended destination"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "يجب على السائق أن يمسك بالمقود:",
+    "choices": [
+      "بيد واحدة",
+      "بكلتا اليدين",
+      "بأصابع اليدين"
+    ],
+    "correctIndex": 1,
+    "question_en": "The driver must hold the steering wheel:",
+    "choices_en": [
+      "With one hand",
+      "With both hands",
+      "With the fingers"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "لا يجوز أن يزيد عدد الركاب في الشاحنة المحملة عن:",
+    "choices": [
+      "شخص واحد",
+      "العدد المحدد في الرخصة",
+      "لا يحق لها نقل أي شخص"
+    ],
+    "correctIndex": 1,
+    "question_en": "The number of passengers in a loaded truck must not exceed:",
+    "choices_en": [
+      "One person",
+      "The number specified in the license",
+      "It is not allowed to carry any person"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "عند ربط القاطرة بالمقطورة، على السائق أن يتأكد من أن:",
+    "choices": [
+      "مكابح المقطورة مشدودة وأرجلها تلامس الأرض",
+      "مكابح المقطورة غير مشدودة وأرجلها تلامس الأرض",
+      "المقطورة تلامس الأرض على رجل واحدة"
+    ],
+    "correctIndex": 0,
+    "question_en": "When coupling the tractor unit to the trailer, the driver must make sure that:",
+    "choices_en": [
+      "The trailer's brakes are applied and its legs are touching the ground",
+      "The trailer's brakes are not applied and its legs are touching the ground",
+      "The trailer is touching the ground on one leg"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "بعد ربط القاطرة بالمقطورة على السائق أن ينتبه إلى أنّ",
+    "choices": [
+      "خطوط الهواء والأسلاك الكهربائية موصولة بشكل جيّد",
+      "خطوط الهواء فقط موصولة بشكل جيّد",
+      "الأسلاك الكهربائية فقط موصولة بشكل جيّد"
+    ],
+    "correctIndex": 0,
+    "question_en": "After coupling the tractor unit to the trailer, the driver must check that:",
+    "choices_en": [
+      "The air lines and electrical cables are properly connected",
+      "Only the air lines are properly connected",
+      "Only the electrical cables are properly connected"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "عند الشروع بربط القاطرة بالمقطورة على السائق أن:",
+    "choices": [
+      "يرجع القاطرة ببطء فوق المقطورة",
+      "يرجع القاطرة بسرعة تحت المقطورة",
+      "يرجع القاطرة ببطء تحت المقطورة"
+    ],
+    "correctIndex": 2,
+    "question_en": "When beginning to couple the tractor unit to the trailer, the driver must:",
+    "choices_en": [
+      "Reverse the tractor unit slowly over the trailer",
+      "Reverse the tractor unit quickly under the trailer",
+      "Reverse the tractor unit slowly under the trailer"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "عند فصل القاطرة عن المقطورة، على السائق أن يختار مكانًا:",
+    "choices": [
+      "منحدرًا وليّنًا.",
+      "مسطّحًا وليناً.",
+      "منحدرًا وصلبًا."
+    ],
+    "correctIndex": 1,
+    "question_en": "When uncoupling the tractor unit from the trailer, the driver must choose a place that is:",
+    "choices_en": [
+      "Sloped and soft.",
+      "Flat and soft.",
+      "Sloped and hard."
+    ]
+  },
+  {
+    "id": 41,
+    "question": "عند فصل القاطرة عن المقطورة على السائق أن:",
+    "choices": [
+      "يشد فرامل المقطورة ولا ينزل أرجلها الى اقصى حد",
+      "يشد فرامل المقطورة وينزل أرجلها الى اقصى حد",
+      "لا يشد فرامل المقطورة وينزل أرجلها الى اقصى حد"
+    ],
+    "correctIndex": 1,
+    "question_en": "When uncoupling the tractor unit from the trailer, the driver must:",
+    "choices_en": [
+      "Apply the trailer's brakes and not lower its legs all the way down",
+      "Apply the trailer's brakes and lower its legs all the way down",
+      "Not apply the trailer's brakes and lower its legs all the way down"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "لسائق المركبة الثقيلة بقع عمياء حول مركبته وعددها:",
+    "choices": [
+      "أربع بقع عمياء على الأقل",
+      "ثماني بقع عمياء على الأقل",
+      "ثلاث بقع عمياء"
+    ],
+    "correctIndex": 0,
+    "question_en": "A heavy vehicle driver has blind spots around their vehicle, numbering:",
+    "choices_en": [
+      "At least four blind spots",
+      "At least eight blind spots",
+      "Three blind spots"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "على سائق المركبة الثقيلة أن ينتبه الى ارتفاع مركبته خاصة:",
+    "choices": [
+      "عند مروره فوق جسر",
+      "عند مروره تحت جسر أو دخوله في نفق",
+      "عندما يقود على طرقات مفتوحة"
+    ],
+    "correctIndex": 1,
+    "question_en": "The heavy vehicle driver must pay attention to the height of their vehicle especially:",
+    "choices_en": [
+      "When passing over a bridge",
+      "When passing under a bridge or entering a tunnel",
+      "When driving on open roads"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "على كل سائق مركبة ثقيلة أن ينتبه الى عرض مركبته خاصة:",
+    "choices": [
+      "عند قيادته في الطرق المفتوحة",
+      "عند أخذه قسطًا من الراحة",
+      "عند تجاوزه لمركبة أخرى"
+    ],
+    "correctIndex": 2,
+    "question_en": "Every heavy vehicle driver must pay attention to the width of their vehicle especially:",
+    "choices_en": [
+      "When driving on open roads",
+      "When taking some rest",
+      "When overtaking another vehicle"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "على سائق المركبة الثقيلة أن:",
+    "choices": [
+      "يرجع إلى الخلف في الأماكن المكتظة",
+      "يرجع إلى الخلف بعد التقاطع مباشرة",
+      "يتفادى الرجوع الى الخلف في الأماكن المكتظة"
+    ],
+    "correctIndex": 2,
+    "question_en": "The heavy vehicle driver must:",
+    "choices_en": [
+      "Reverse in crowded places",
+      "Reverse immediately after the intersection",
+      "Avoid reversing in crowded places"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "التعامل مع المركبات الثقيلة يختلف عنه مع المركبات الصغيرة، فعند انعطاف سائق المركبة الثقيلة الى اليمين:",
+    "choices": [
+      "لا يجب ترك مسافة كافية لجهة اليمين",
+      "يجب ترك مسافة كافية في الأمام",
+      "يجب ترك مسافة كافية لجهة اليمين"
+    ],
+    "correctIndex": 2,
+    "question_en": "Dealing with heavy vehicles differs from dealing with small vehicles; when a heavy vehicle driver turns to the right:",
+    "choices_en": [
+      "A sufficient distance must not be left on the right side",
+      "A sufficient distance must be left in front",
+      "A sufficient distance must be left on the right side"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "حين تقود مركبتك الثقيلة في منعطف يسار، وكي تتفادى عبور عجلاتك اليسرى الخلفية لخط وسط الطريق، عليك أن:",
+    "choices": [
+      "تأخذ أقصى يسارك خلال المنعطف",
+      "تأخذ يمينك قليلا خلال المنعطف",
+      "تزيد سرعتك خلال المنعطف"
+    ],
+    "correctIndex": 1,
+    "question_en": "When driving your heavy vehicle through a left bend, and in order to prevent your rear left wheels from crossing the center line of the road, you must:",
+    "choices_en": [
+      "Keep as far left as possible through the bend",
+      "Move slightly to your right through the bend",
+      "Increase your speed through the bend"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "حين تقود مركبتك الثقيلة في منعطف يمين، وكي تتفادى نزول عجلاتك اليمنى الخلفية عن حافة الطريق، عليك أن:",
+    "choices": [
+      "تقود مركبتك في وسط مسربك",
+      "تأخذ أقصى يمينك خلال المنعطف",
+      "تزيد سرعتك خلال المنعطف"
+    ],
+    "correctIndex": 0,
+    "question_en": "When driving your heavy vehicle through a right bend, and in order to prevent your rear right wheels from going off the edge of the road, you must:",
+    "choices_en": [
+      "Drive your vehicle in the middle of your lane",
+      "Keep as far right as possible through the bend",
+      "Increase your speed through the bend"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "عند اقترابك من رأس مرتفع للطريق، عليك أن تتوقع خلف القمة:",
+    "choices": [
+      "طريق مستقيم",
+      "وجود عقبات",
+      "عدم وجود عقبات"
+    ],
+    "correctIndex": 1,
+    "question_en": "As you approach the crest of a rise in the road, you should expect, beyond the top:",
+    "choices_en": [
+      "A straight road",
+      "The presence of obstacles",
+      "The absence of obstacles"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "للسيطرة على مركبتك وأنت تقودها على المنحدرات، يجب عليك أن تعتمد بشكل اساسي على استعمال:",
+    "choices": [
+      "الفرامل",
+      "فرامل اليد",
+      "ترس منخفض"
+    ],
+    "correctIndex": 2,
+    "question_en": "To control your vehicle while driving on downhill slopes, you should rely primarily on the use of:",
+    "choices_en": [
+      "The brakes",
+      "The handbrake",
+      "A low gear"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "استعمال المكابح الرئيسية في المركبة بشكل متواصل على منحدر طويل يبطل مفعول المكابح بسبب:",
+    "choices": [
+      "إزدياد حرارتها",
+      "ضغط سائل الكبح",
+      "قوة المنحدر"
+    ],
+    "correctIndex": 0,
+    "question_en": "Continuous use of the main brakes on a long descent causes the brakes to fail because of:",
+    "choices_en": [
+      "Their increased heat",
+      "The brake fluid pressure",
+      "The force of the slope"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "إذا دخلت منحدرا طويلا بمركبتك الثقيلة وتأخرت بالانتقال الى ترس سرعة منخفض وأصبحت سرعتك:",
+    "choices": [
+      "يصبح من السهل عليك الانتقال الى ترس سرعة منخفض",
+      "يصبح من المستحيل الانتقال الى ترس سرعة منخفض للسيطرة على المركبة",
+      "يصبح بإمكانك تجاوز المركبات بالجملة وبشكل آمن"
+    ],
+    "correctIndex": 1,
+    "question_en": "If you enter a long descent with your heavy vehicle and delay shifting to a low gear so that your speed increases:",
+    "choices_en": [
+      "It becomes easy for you to shift to a low gear",
+      "It becomes impossible to shift to a low gear to control the vehicle",
+      "You become able to overtake vehicles in bulk and safely"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "عند قيادتك لمركبتك الثقيلة صعوداً متواصلا يجب عليك:",
+    "choices": [
+      "تجنب اجهاد المحرّك",
+      "التزام الجهة اليسرى",
+      "عدم السماح للمركبات الصغيرة بتجاوزك"
+    ],
+    "correctIndex": 0,
+    "question_en": "When driving your heavy vehicle on a continuous uphill climb, you must:",
+    "choices_en": [
+      "Avoid overstraining the engine",
+      "Keep to the left side",
+      "Not allow small vehicles to overtake you"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "عند قيادتك لمركبتك الثقيلة صعوداً متواصلا عليك:",
+    "choices": [
+      "التزام اقصى اليمين قدر المستطاع",
+      "التزام اقصى اليسار قدر المستطاع"
+    ],
+    "correctIndex": 0,
+    "question_en": "When driving your heavy vehicle on a continuous uphill climb, you must:",
+    "choices_en": [
+      "Keep as far to the right as possible",
+      "Keep as far to the left as possible"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "اذا كنت تريد أن تتجاوز بمركبتك الثقيلة مركبة اخرى صعوداً وكان ذلك سيستغرق وقتا طويلا فعليك أن:",
+    "choices": [
+      "تصرّ على القيام بهذا التجاوز",
+      "تزيد من سرعتك فوق الحد المسموح",
+      "تصرف النظر عن هذا التجاوز"
+    ],
+    "correctIndex": 2,
+    "question_en": "If you want to overtake another vehicle with your heavy vehicle while going uphill and it will take a long time, you should:",
+    "choices_en": [
+      "Insist on carrying out this overtaking",
+      "Increase your speed above the permitted limit",
+      "Abandon this overtaking"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "قيادة المركبة الثقيلة على طريق وعرة تحتم عليك أن:",
+    "choices": [
+      "تركز اهتمامك الى الخلف",
+      "تزيد من سرعتك قليلا",
+      "تكون حذرا وأن تخطط للطريق مسبقا"
+    ],
+    "correctIndex": 2,
+    "question_en": "Driving a heavy vehicle on a rough road requires you to:",
+    "choices_en": [
+      "Focus your attention on the rear",
+      "Increase your speed slightly",
+      "Be cautious and plan the route in advance"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "التواصل عن طريق التقاء النظر بين السائقين عند التقاطع:",
+    "choices": [
+      "هو امر محظر على السائقين",
+      "يساعد على حل الالتباس المروري بين السائقين",
+      "هو من انواع التنبه"
+    ],
+    "correctIndex": 1,
+    "question_en": "Communicating through eye contact between drivers at an intersection:",
+    "choices_en": [
+      "Is prohibited for drivers",
+      "Helps resolve traffic confusion between drivers",
+      "Is a type of warning"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "لمنع الحوادث يقع على سائق المركبة أن يتفادى قدر استطاعته:",
+    "choices": [
+      "الرجوع بمركبته الى الخلف",
+      "التوقف التدريجي",
+      "غسل مركبته على الطريق"
+    ],
+    "correctIndex": 0,
+    "question_en": "To prevent accidents, the vehicle driver must avoid, as much as possible:",
+    "choices_en": [
+      "Reversing his vehicle backwards",
+      "Gradual stopping",
+      "Washing his vehicle on the road"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "يلزمك القانون بإعطاء الافضلية:",
+    "choices": [
+      "للحافلات المدرسية المستخدمة لأنوار التحذير.",
+      "للسائقات",
+      "للمركبات المسرعة"
+    ],
+    "correctIndex": 0,
+    "question_en": "The law requires you to give right of way:",
+    "choices_en": [
+      "To school buses using their warning lights.",
+      "To female drivers",
+      "To speeding vehicles"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "يلزم القانون مجمل السائقين باعطاء الافضلية للمركبات:",
+    "choices": [
+      "الموجودة داخل المستديرة",
+      "الداخلة الى المستديرة",
+      "الموجودة الى يمين المركبة"
+    ],
+    "correctIndex": 0,
+    "question_en": "The law requires all drivers to give right of way to vehicles:",
+    "choices_en": [
+      "Already within the roundabout",
+      "Entering the roundabout",
+      "To the right of the vehicle"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "القانون يسمح بتركين المركبة (ايقافها وتركها) بشكل مواز للرصيف على طريق ذو مسلكين متعاكسين:",
+    "choices": [
+      "على يمين اتجاه سير المركبة",
+      "لا تهتم الجهة طالما أنها لا تعيق حركة السير",
+      "على يسار الطريق"
+    ],
+    "correctIndex": 0,
+    "question_en": "The law permits parking the vehicle (stopping and leaving it) parallel to the curb on a two-way road:",
+    "choices_en": [
+      "On the right side of the vehicle's direction of travel",
+      "The side does not matter as long as it does not obstruct traffic",
+      "On the left side of the road"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "إسراف سائق المركبة في الطعام:",
+    "choices": [
+      "يمكنه من القيادة بشكل أسلم",
+      "يسبب له البلادة وصعوبة في اتخاذ القرارات الصائبة خلال القيادة",
+      "يمكنه من القيادة على سرعات عالية جدا"
+    ],
+    "correctIndex": 1,
+    "question_en": "A vehicle driver overeating:",
+    "choices_en": [
+      "Enables him to drive more safely",
+      "Causes him drowsiness and difficulty in making correct decisions while driving",
+      "Enables him to drive at very high speeds"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "قلة النوم لسائق المركبة:",
+    "choices": [
+      "تساعده على تحسين ردة فعله",
+      "تبطئ ردات فعله أثناء القيادة وتسبب له فقدان طفيف للذاكرة",
+      "تساعده على الإنتباه"
+    ],
+    "correctIndex": 1,
+    "question_en": "Lack of sleep for a vehicle driver:",
+    "choices_en": [
+      "Helps improve his reaction",
+      "Slows his reactions while driving and causes him slight memory loss",
+      "Helps him stay alert"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "خلال الرحلات الطويلة، على سائق المركبة أن يتوقف للراحة كل:",
+    "choices": [
+      "4 ساعات",
+      "10 ساعات",
+      "8 ساعات"
+    ],
+    "correctIndex": 0,
+    "question_en": "During long trips, the vehicle driver should stop to rest every:",
+    "choices_en": [
+      "4 hours",
+      "10 hours",
+      "8 hours"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "خلال الرحلات الطويلة، من الأفضل لسائق المركبة أن يتوقف للراحة كل:",
+    "choices": [
+      "900 كلم",
+      "750 كلم",
+      "250 كلم"
+    ],
+    "correctIndex": 2,
+    "question_en": "During long trips, it is best for the vehicle driver to stop to rest every:",
+    "choices_en": [
+      "900 km",
+      "750 km",
+      "250 km"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "تأثير الكحول على سائق المركبة أثناء القيادة:",
+    "choices": [
+      "يمكن أن يكون قاتلا للسائقين وللآخرين",
+      "يشكل خطرًا على الآخرين فقط",
+      "يشكل خطرًا على السائق"
+    ],
+    "correctIndex": 0,
+    "question_en": "The effect of alcohol on a vehicle driver while driving:",
+    "choices_en": [
+      "Can be fatal to drivers and to others",
+      "Poses a danger to others only",
+      "Poses a danger to the driver"
+    ]
+  },
+  {
     "id": 67,
     "question": "خلال الرحلات الطويلة، على سائق المركبة أن:",
     "choices": [
@@ -666,7 +1061,13 @@
       "يستمر بالقيادة دون التوقف للاستراحة",
       "يتجنّب عقاقير اليقظة كليًا"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "During long trips, the vehicle driver should:",
+    "choices_en": [
+      "Continuously take stimulant drugs",
+      "Continue driving without stopping to rest",
+      "Completely avoid stimulant drugs"
+    ]
   },
   {
     "id": 68,
@@ -676,7 +1077,13 @@
       "يسأل الطبيب المعالج او الصيدلي",
       "يجرّبه على سائق اخر"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The best way for a driver to know the extent of a medication's effect on driving is to:",
+    "choices_en": [
+      "Ask an experienced driver",
+      "Ask the treating doctor or the pharmacist",
+      "Test it on another driver"
+    ]
   },
   {
     "id": 69,
@@ -686,7 +1093,13 @@
       "بالشجاعة والإقدام",
       "بالغضب"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Consuming alcohol or drugs while driving gives the driver a false sense of:",
+    "choices_en": [
+      "Fear",
+      "Courage and boldness",
+      "Anger"
+    ]
   },
   {
     "id": 70,
@@ -696,7 +1109,13 @@
       "لا تعتمد أبدا على ارشادات سائق هذه المركبة",
       "تتبع ارشادات سائق المركبة التي خلفك مباشرة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When you want to overtake another vehicle with your vehicle, you should:",
+    "choices_en": [
+      "Follow the guidance given to you by that vehicle's driver through his light signals",
+      "Never rely on the guidance of that vehicle's driver",
+      "Follow the guidance of the driver of the vehicle directly behind you"
+    ]
   },
   {
     "id": 71,
@@ -706,7 +1125,13 @@
       "عند أخذه قسطًا من الراحة",
       "عند تحميل المركبة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Every heavy-vehicle driver must pay attention to the width of his vehicle, especially:",
+    "choices_en": [
+      "When entering a narrow place",
+      "When taking a rest",
+      "When loading the vehicle"
+    ]
   },
   {
     "id": 72,
@@ -716,7 +1141,13 @@
       "الكاميرا الخلفية",
       "المرايا"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the heavy-vehicle driver wants to reverse, he should rely on information from:",
+    "choices_en": [
+      "An assistant person",
+      "The rear camera",
+      "The mirrors"
+    ]
   },
   {
     "id": 73,
@@ -726,7 +1157,13 @@
       "كل أغطية الخزانات وصمامات الإفراغ مغلقة بإحكام",
       "أغطية الخزانات مغلقة بإحكام"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "After filling the tanker with its load, its driver must make sure that:",
+    "choices_en": [
+      "The discharge valves are tightly closed",
+      "All tank covers and discharge valves are tightly closed",
+      "The tank covers are tightly closed"
+    ]
   },
   {
     "id": 74,
@@ -736,7 +1173,13 @@
       "إجتياز هذه الخطوط والفواصل والسير عليها",
       "عدم إجتياز هذه الخطوط أو الفواصل"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the road is divided into two lanes marked by continuous lines or dividers, the driver must:",
+    "choices_en": [
+      "Drive in the opposite direction",
+      "Cross these lines and dividers and drive on them",
+      "Not cross these lines or dividers"
+    ]
   },
   {
     "id": 75,
@@ -746,7 +1189,13 @@
       "أن يتجاوز الخطوط بقصد التجاوز",
       "أن يلتزم الجانب الأيمن من الطريق دون تنبيه"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The driver, in normal driving conditions, must:",
+    "choices_en": [
+      "Keep to the left side of the road",
+      "Cross the lines for the purpose of overtaking",
+      "Keep to the right side of the road without signaling"
+    ]
   },
   {
     "id": 76,
@@ -756,7 +1205,13 @@
       "لا يسمح للسائق إجتياز الخط المتواصل فيما إذا كان إلى يساره مباشرة",
       "يُحظّر على السائق: اجتياز الخط المتواصل فيما إذا كان إلى يساره مباشرة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the lane is marked by a broken line alongside a continuous line, which of these answers is correct:",
+    "choices_en": [
+      "The driver is allowed to cross the broken line if it is directly to his left",
+      "The driver is not allowed to cross the continuous line if it is directly to his left",
+      "The driver is prohibited from crossing the continuous line if it is directly to his left"
+    ]
   },
   {
     "id": 77,
@@ -766,7 +1221,13 @@
       "للمشاة وعربات الأولاد والمرضى والمقعدين المدفوعين بالأيدي",
       "لوضع أي شيء يعيق سير المنتفعين"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Sidewalks, where they exist, are designated:",
+    "choices_en": [
+      "For parking the car when permitted",
+      "For pedestrians, baby strollers, and wheelchairs for the sick and disabled pushed by hand",
+      "For placing anything that obstructs the movement of users"
+    ]
   },
   {
     "id": 78,
@@ -776,7 +1237,13 @@
       "أن يتجاوز الخطوط المتقطّعة دون أي سابق إنذار",
       "أن يتاكد مسبقاً من إمكانية إجراء ذلك بدون خطر وأن ينبه غيره إلى ذلك"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "A driver preparing to make a significant change in his vehicle's speed or direction must:",
+    "choices_en": [
+      "Cross the continuous lines if they are directly to his left",
+      "Cross the broken lines without any prior warning",
+      "Make sure in advance that this can be done without danger and warn others of it"
+    ]
   },
   {
     "id": 79,
@@ -786,7 +1253,13 @@
       "بداعي التوقف",
       "بداعي الخطر"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The driver must not brake suddenly while driving except:",
+    "choices_en": [
+      "To test them",
+      "To stop",
+      "Because of danger"
+    ]
   },
   {
     "id": 80,
@@ -796,7 +1269,13 @@
       "اليسار عندما يريد سائق آخر تجاوزه",
       "اليسار من الطريق عندما يقبل عليه سائق آخر من الجهة المعاكسة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The driver must keep to the side:",
+    "choices_en": [
+      "Right side of the road when another driver approaches from the opposite direction",
+      "Left when another driver wants to overtake him",
+      "Left side of the road when another driver approaches from the opposite direction"
+    ]
   },
   {
     "id": 81,
@@ -806,7 +1285,13 @@
       "السير على الجانب الأيمن، عندما يُقبل عليه من الجهة المقابلة سائق آخر",
       "تجاوز الفرق العسكرية وقوى الأمن والمواكب على إختلاف أنواعها وهي في حالة السير"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "It is prohibited for the driver to:",
+    "choices_en": [
+      "Overtake another driver on the left side when visibility is sufficient",
+      "Drive on the right side when another driver approaches from the opposite direction",
+      "Overtake military units, security forces, and processions of all kinds while they are moving"
+    ]
   },
   {
     "id": 82,
@@ -816,7 +1301,13 @@
       "أن يتمهلوا بالسير على الجانب الأيسر",
       "أن يوقفوا محركات مركباتهم عن الدوران بقصد تسييرها في المنحدرات بقوة إندفاعها"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "It is prohibited for vehicle drivers to:",
+    "choices_en": [
+      "Drive in the designated direction",
+      "Slow down while driving on the left side",
+      "Switch off their vehicle engines in order to coast down slopes by their own momentum"
+    ]
   },
   {
     "id": 83,
@@ -826,7 +1317,13 @@
       "أن يسير بالإتجاه المحدّد",
       "يجري مناورة عكس الإتجاه(Tour Demi) في وسط الطريق العام ضمن المناطق المأهولة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "It is prohibited for the vehicle driver to:",
+    "choices_en": [
+      "Make sure the overtaking maneuver is carried out without danger",
+      "Drive in the designated direction",
+      "Perform a U-turn (Tour Demi) in the middle of a public road within built-up areas"
+    ]
   },
   {
     "id": 84,
@@ -836,7 +1333,13 @@
       "يسير بغير الإتجاه المحدّد",
       "أن يسير بالإتجاه المحدّد"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "It is prohibited for the driver to:",
+    "choices_en": [
+      "Make sure overtaking is carried out without danger",
+      "Drive against the designated direction",
+      "Drive in the designated direction"
+    ]
   },
   {
     "id": 85,
@@ -846,7 +1349,13 @@
       "أن يتأكد من إجراء مناورة التجاوز دون خطر",
       "غسل المركبات على الطريق العام"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "It is prohibited for the driver to:",
+    "choices_en": [
+      "Drive on the right side of the road",
+      "Make sure the overtaking maneuver is carried out without danger",
+      "Wash vehicles on the public road"
+    ]
   },
   {
     "id": 86,
@@ -856,7 +1365,13 @@
       "يخفف السرعة أو أن يتوقف كلما أوجبت الظروف وخاصة عندما تكون الرؤية سيئة",
       "يزيد السرعة عندما تكون الرؤية سيئة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The driver must:",
+    "choices_en": [
+      "Not take into account the layout and condition of the road and traffic density",
+      "Slow down or stop whenever circumstances require, especially when visibility is poor",
+      "Increase speed when visibility is poor"
+    ]
   },
   {
     "id": 87,
@@ -866,7 +1381,13 @@
       "التلاقي على اليسار",
       "التجاوز على اليمين عندما تكون الطريق ذات مسرب واحد"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The driver must:",
+    "choices_en": [
+      "Overtake on the left",
+      "Pass oncoming traffic on the left",
+      "Overtake on the right when the road has a single lane"
+    ]
   },
   {
     "id": 88,
@@ -876,7 +1397,13 @@
       "أن يلتزم الجهة اليسار من الطريق بقدر ما يسمح وجود سالكين آخرين عليها",
       "أن يلتزم الجهة اليمين من الطريق بقدر ما يسمح وجود سالكين آخرين عليها"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When passing oncoming traffic, the driver must:",
+    "choices_en": [
+      "Keep to the center line if the road is a single lane",
+      "Keep to the left side of the road as much as the presence of other users allows",
+      "Keep to the right side of the road as much as the presence of other users allows"
+    ]
   },
   {
     "id": 89,
@@ -886,7 +1413,13 @@
       "أن يقوم بالتجاوز حتى ولو باشر السائق الذي يتبعه بمناورة تجاوز مماثلة",
       "أن يتأكد من أن من يتبعه من السائقين لم يباشر بعد مناورة تجاوز مماثلة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Before beginning to overtake, the driver must:",
+    "choices_en": [
+      "Disregard the traffic measures that can be taken within built-up areas",
+      "Overtake even if the driver behind him has begun a similar overtaking maneuver",
+      "Make sure that the drivers behind him have not yet begun a similar overtaking maneuver"
+    ]
   },
   {
     "id": 90,
@@ -896,7 +1429,13 @@
       "عدم تنبيه السائق الذي يريد تجاوزه",
       "أن ينبه السائق الذي يريد تجاوزه"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Before beginning to overtake, the driver must:",
+    "choices_en": [
+      "He has priority to overtake even if the driver behind him has begun a similar maneuver",
+      "Not warn the driver he wants to overtake",
+      "Warn the driver he wants to overtake"
+    ]
   },
   {
     "id": 91,
@@ -906,7 +1445,13 @@
       "يستعمل النصف الأيسر من الطريق، على أن لا يضايق ذلك السائرين في الإتجاه المعاكس",
       "يستعمل النصف الأيسر من الطريق، ولو كان ذلك يضايق السائرين في الإتجاه المعاكس"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When overtaking, the driver must:",
+    "choices_en": [
+      "Not return to the right immediately after overtaking",
+      "Use the left half of the road, provided this does not inconvenience those traveling in the opposite direction",
+      "Use the left half of the road, even if this inconveniences those traveling in the opposite direction"
+    ]
   },
   {
     "id": 92,
@@ -916,7 +1461,13 @@
       "لا يسمح بالتجاوز على اليمين",
       "في المسالك والطرقات التي تحتوي أكثر من مسربين، شرط أن يتأكد السائق أن إنتقاله من مسرب إلى آخر لا يسبب خطراً أو إزعاجاً للآخرين"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Overtaking on the right is permitted, contrary to the rule:",
+    "choices_en": [
+      "When the driver has signaled that he intends to turn right",
+      "Overtaking on the right is not permitted",
+      "On lanes and roads that have more than two lanes, provided the driver makes sure that his move from one lane to another does not cause danger or inconvenience to others"
+    ]
   },
   {
     "id": 93,
@@ -926,7 +1477,13 @@
       "إذا كان الطريق مقسم إلى عدة مسالك محددة بخطوط متقطّعة",
       "على يسار المركبة إذا كانت الطريق محددة بخطوط متقطّعة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Overtaking is prohibited:",
+    "choices_en": [
+      "On bends",
+      "If the road is divided into several lanes marked by broken lines",
+      "On the left of a vehicle if the road is marked by broken lines"
+    ]
   },
   {
     "id": 94,
@@ -936,7 +1493,13 @@
       "عن جهة اليمين في جميع الحالات",
       "على الجسور وفي الأنفاق"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Overtaking is prohibited:",
+    "choices_en": [
+      "On roads that have no more than a single lane",
+      "On the right side in all cases",
+      "On bridges and in tunnels"
+    ]
   },
   {
     "id": 95,
@@ -946,7 +1509,13 @@
       "في حال بقاء النصف الايسر من الطريق حراً",
       "إذا كان المقصود تجاوزه يسير على المسلك اليمين للطريق"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Overtaking is prohibited:",
+    "choices_en": [
+      "When a line of cars has stopped due to a traffic obstruction or due to a sign indicating their stop",
+      "When the left half of the road remains free",
+      "If the one to be overtaken is traveling on the right lane of the road"
+    ]
   },
   {
     "id": 96,
@@ -956,7 +1525,13 @@
       "في الحالات التي يسمح فيها شكل الطريق المجال الحرّ في عرضه بالتجاوز بسهولة وسلامة تامة",
       "إذا كان الطريق مقسم إلى عدة مسالك محددة بخطوط متقطعة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Overtaking is prohibited:",
+    "choices_en": [
+      "At the crests of road rises if forward visibility is insufficient, except on the condition that the left half of the road remains free",
+      "In cases where the shape of the road and the free space across its width allow overtaking easily and with complete safety",
+      "If the road is divided into several lanes marked by broken lines"
+    ]
   },
   {
     "id": 97,
@@ -966,7 +1541,13 @@
       "يخفضوا سرعتهم وإذا لزم الأمر أن يتوقفوا أو يتنحوا جانباً لتسهيل مرور هذه السيارات",
       "زيادة سرعتهم لتسهيل مرور هذه السيارات"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "If a vehicle of the security forces, fire brigade, civil defense, or ambulance signals its approach, other road users must:",
+    "choices_en": [
+      "Stop immediately wherever they are to make way for these vehicles",
+      "Reduce their speed and, if necessary, stop or pull aside to make way for these vehicles",
+      "Increase their speed to make way for these vehicles"
+    ]
   },
   {
     "id": 98,
@@ -976,7 +1557,13 @@
       "في الطرقات الجبلية الضيقة أو الإنحدار الشديد",
       "في الطرقات الواسعة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Overtaking is prohibited:",
+    "choices_en": [
+      "When the road is divided into several lanes marked by broken lines",
+      "On narrow mountain roads or steep descents",
+      "On wide roads"
+    ]
   },
   {
     "id": 99,
@@ -986,7 +1573,13 @@
       "المرور دون التثبت من أن الطريق حرّ",
       "أن يتأكد من أن الطريق الذي ينوي قطعه حرّ"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When approaching an intersection, the driver must:",
+    "choices_en": [
+      "Keep to the right side of the road",
+      "Proceed without making sure the road is clear",
+      "Make sure that the road he intends to cross is clear"
+    ]
   },
   {
     "id": 100,
@@ -996,7 +1589,13 @@
       "أن يلتزم الطرف الأيسر من الطريق",
       "أن يلتزم الطرف اليمين من الطريق"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "A driver preparing to leave a road in order to take another road located to his right must:",
+    "choices_en": [
+      "Move to the left without crossing the center of the road",
+      "Keep to the left side of the road",
+      "Keep to the right side of the road"
+    ]
   },
   {
     "id": 101,
@@ -1006,7 +1605,13 @@
       "يميل إلى اليسار دون أن يتعدى محور الطريق",
       "يميل إلى يمينه دون أن يتعدى محور الطريق"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "A driver preparing to leave a road in order to take another road located to his left must:",
+    "choices_en": [
+      "Stay in the middle lane without moving either right or left",
+      "Move to the left without crossing the center of the road",
+      "Move to the right without crossing the center of the road"
+    ]
   },
   {
     "id": 102,
@@ -1016,7 +1621,13 @@
       "يقوم بالإلتفاف اللازم بسرعة فائقة كي لا يسبب الإزعاج للآخرين",
       "يقوم بالإلتفاف اللازم بسرعة معتدلة بعد أن يتأكد من إمكان إجراء ذلك دون أي خطر أو إزعاج للآخرين"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "A driver preparing to leave a road in order to take another road must:",
+    "choices_en": [
+      "Move slowly to the right",
+      "Make the necessary turn at very high speed so as not to disturb others",
+      "Make the necessary turn at a moderate speed after making sure it can be done without any danger or disturbance to others"
+    ]
   },
   {
     "id": 103,
@@ -1026,7 +1637,13 @@
       "فقط من جهتي اليمين واليسار",
       "فقط من جهتي الامام والخلف"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "It is best to maintain a \"safety distance\":",
+    "choices_en": [
+      "On all sides of the vehicle",
+      "Only on the right and left sides",
+      "Only on the front and rear sides"
+    ]
   },
   {
     "id": 104,
@@ -1036,7 +1653,13 @@
       "يعطي فسحة لدخول سيارة أخرى",
       "يمنع الالتهاء بالمركبات الاخرى"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Allowing for a \"safety distance\" is important because it:",
+    "choices_en": [
+      "Gives time to react and respond to traffic conditions",
+      "Provides space for another car to enter",
+      "Prevents distraction by other vehicles"
+    ]
   },
   {
     "id": 105,
@@ -1046,7 +1669,13 @@
       "يمكنك عبور التقاطع اذا كان ذلك ممكناً",
       "لا تستطيع المرور إلى اليمين"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "A steady green light at an intersection means that:",
+    "choices_en": [
+      "You must stop and check oncoming traffic before proceeding",
+      "You may cross the intersection if it is possible to do so",
+      "You cannot turn right"
+    ]
   },
   {
     "id": 106,
@@ -1056,7 +1685,13 @@
       "توقف ثم تابع السير عند خلو الطريق",
       "خفف السرعة وتابع السير بحذر"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "A flashing yellow light means:",
+    "choices_en": [
+      "Continue driving if the road is clear",
+      "Stop, then continue driving when the road is clear",
+      "Slow down and proceed with caution"
+    ]
   },
   {
     "id": 107,
@@ -1066,7 +1701,13 @@
       "خفف السرعة واستعد للتوقف",
       "قف"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "A yellow light at an intersection means:",
+    "choices_en": [
+      "Go",
+      "Slow down and prepare to stop",
+      "Stop"
+    ]
   },
   {
     "id": 108,
@@ -1076,7 +1717,13 @@
       "احرر دوّاسة الوقود لتخفيف سرعة السيارة واقوم بتثبيت المقود وأوقفها خارج الطريق",
       "أخفض سرعة السيارة باستعمال المكابح وأوقفها خارج الطريق"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "If a tire bursts while driving:",
+    "choices_en": [
+      "Let go of the steering wheel",
+      "Release the accelerator pedal to slow the car down, hold the steering wheel firmly, and stop off the road",
+      "Reduce the car's speed using the brakes and stop off the road"
+    ]
   },
   {
     "id": 109,
@@ -1086,7 +1733,13 @@
       "الجانب الايسر من الطريق",
       "الأسفل وإلى الجانب الايمن من الطريق"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the lights of an oncoming vehicle dazzle you, you should look toward:",
+    "choices_en": [
+      "The middle of the road",
+      "The left side of the road",
+      "Down and toward the right side of the road"
+    ]
   },
   {
     "id": 110,
@@ -1096,7 +1749,13 @@
       "وضع المثلث التحذيري وتشغيل الانوار الرئيسية لتحذير باقي السائقين",
       "انتظر في المركبة لوصول المساعدة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If your vehicle breaks down on the highway:",
+    "choices_en": [
+      "Place the warning triangle and turn on the four-way flashers (hazard lights) to warn other drivers",
+      "Place the warning triangle and turn on the main lights to warn other drivers",
+      "Wait in the vehicle for help to arrive"
+    ]
   },
   {
     "id": 111,
@@ -1106,7 +1765,13 @@
       "تخفيف السرعة",
       "أن تقود بسرعة أقل من السرعة المحددة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When entering a highway you should:",
+    "choices_en": [
+      "Drive at the speed of the traffic on the highway",
+      "Slow down",
+      "Drive at a speed lower than the speed limit"
+    ]
   },
   {
     "id": 112,
@@ -1116,7 +1781,13 @@
       "يسمح للسائق إجتياز الخط المتقاطع إذا كان إلى يساره مباشرة",
       "يُحظّر على السائق: إجتياز الخط المتواصل فيما إذا كان إلى يمينه مباشرة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the lane is marked by a broken line alongside a solid line:",
+    "choices_en": [
+      "The driver is prohibited from crossing the solid line if it is immediately to his left",
+      "The driver is allowed to cross the broken line if it is immediately to his left",
+      "The driver is prohibited from crossing the solid line if it is immediately to his right"
+    ]
   },
   {
     "id": 113,
@@ -1126,7 +1797,13 @@
       "الاتجاه بمركبتك إلى المسرب اليمين معدلاً سرعتك إلى السرعة على هذا المسرب",
       "ضرب قدمك بتقطع على الكابح لجعلها تبتعد"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "If a vehicle is following you while you are on the left side of the highway, you should:",
+    "choices_en": [
+      "Increase your speed",
+      "Move your vehicle to the right lane, adjusting your speed to the speed of that lane",
+      "Tap your foot intermittently on the brake to make it move away"
+    ]
   },
   {
     "id": 114,
@@ -1136,7 +1813,13 @@
       "الاتجاه مباشرة إلى مرآب التصليح",
       "توقيف المحرك عن الدوران"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the brake fails while driving, you should:",
+    "choices_en": [
+      "Quickly pump the brake rapidly",
+      "Drive directly to the repair garage",
+      "Stop the engine from running"
+    ]
   },
   {
     "id": 115,
@@ -1146,7 +1829,13 @@
       "أتقيّد بالسرعة القصوى وإضاءة المصابيح",
       "أتقيّد بالسرعة القصوى"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "In bad weather conditions:",
+    "choices_en": [
+      "Drive below the maximum speed and according to road conditions",
+      "Keep to the maximum speed and turn on the lights",
+      "Keep to the maximum speed"
+    ]
   },
   {
     "id": 116,
@@ -1156,7 +1845,13 @@
       "على طرقات جافة",
       "خلف سيارات اخرى"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "You need additional stopping distance when driving:",
+    "choices_en": [
+      "On wet roads",
+      "On dry roads",
+      "Behind other cars"
+    ]
   },
   {
     "id": 117,
@@ -1166,7 +1861,13 @@
       "لايقاف السيارة في حال السماح بذلك",
       "للمشاة وعربات الاولاد والمرضى والمقعدين المدفوعين بالايادي"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Sidewalks, where they exist, are reserved:",
+    "choices_en": [
+      "For placing any object that obstructs the movement of users",
+      "For parking the car where this is permitted",
+      "For pedestrians, baby strollers, and the sick and disabled in hand-pushed chairs"
+    ]
   },
   {
     "id": 118,
@@ -1176,7 +1877,13 @@
       "تخفف السرعة او تتوقف",
       "تبدل المسرب"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The rear brake lights indicate to other drivers that you are:",
+    "choices_en": [
+      "Entering a bend",
+      "Slowing down or stopping",
+      "Changing lanes"
+    ]
   },
   {
     "id": 119,
@@ -1186,7 +1893,13 @@
       "المركبة التي تصل اولا",
       "المركبة التي تتجه إلى اليمين"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "At a four-way intersection, the vehicle that goes first is:",
+    "choices_en": [
+      "The vehicle that arrived first and entered the intersection",
+      "The vehicle that arrives first",
+      "The vehicle turning right"
+    ]
   },
   {
     "id": 120,
@@ -1196,7 +1909,13 @@
       "ضوء أحمر متقطّع",
       "ضوء أصفر متقطّع"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "You must stop when you see:",
+    "choices_en": [
+      "A steady yellow light",
+      "A flashing red light",
+      "A flashing yellow light"
+    ]
   },
   {
     "id": 121,
@@ -1206,7 +1925,13 @@
       "يلزمها وقت اقل للتجاوز على منحدر",
       "تأخذ مسافة اطول من السيارات للتوقف"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When sharing the road with a truck, it is useful to remember that trucks:",
+    "choices_en": [
+      "Need a shorter turning radius to be able to turn",
+      "Need less time to overtake on an incline",
+      "Take a longer distance than cars to stop"
+    ]
   },
   {
     "id": 122,
@@ -1216,7 +1941,13 @@
       "متابعة السير بالمسرب نفسه",
       "افساح الطريق للمشاة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When turning right on a green light, you must:",
+    "choices_en": [
+      "Slow down because of the turn",
+      "Continue driving in the same lane",
+      "Give way to pedestrians"
+    ]
   },
   {
     "id": 123,
@@ -1226,7 +1957,13 @@
       "ولا في اي حال من الاحوال",
       "في حال كان السائق دون سن 21"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Refusing to submit to an alcohol or drug test is possible:",
+    "choices_en": [
+      "In emergency cases",
+      "Under no circumstances",
+      "If the driver is under 21 years of age"
+    ]
   },
   {
     "id": 124,
@@ -1236,7 +1973,13 @@
       "انوار الضباب و/أو أنوار التلاقي ( الضوء الواطي)",
       "انوار الضباب و/أو أنوار الطريق (الضوء العالي)"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When driving in fog you should use:",
+    "choices_en": [
+      "The road lights (high beam)",
+      "The fog lights and/or the dipped headlights (low beam)",
+      "The fog lights and/or the road lights (high beam)"
+    ]
   },
   {
     "id": 125,
@@ -1246,7 +1989,13 @@
       "راقب السير المقابل",
       "تأكد من وجود فسحة كافية على المسرب الذي ستتجاوز عليه"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When performing an overtaking maneuver on a multi-lane highway:",
+    "choices_en": [
+      "There is no need to use the signals",
+      "Watch the oncoming traffic",
+      "Make sure there is enough space in the lane you will overtake into"
+    ]
   },
   {
     "id": 126,
@@ -1256,7 +2005,13 @@
       "تزيد من سرعة مركبتك",
       "تخفض من سرعة مركبتك"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When entering a bend you must:",
+    "choices_en": [
+      "Maintain your vehicle's speed",
+      "Increase your vehicle's speed",
+      "Reduce your vehicle's speed"
+    ]
   },
   {
     "id": 127,
@@ -1266,7 +2021,13 @@
       "التصرف كانك على تقاطع من دون اشارات ضوئية",
       "التوقف بانتظار وصول شرطة السير"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When the traffic lights are out of order, you must:",
+    "choices_en": [
+      "Give right of way to the driver on the left",
+      "Act as if you are at an intersection without traffic lights",
+      "Stop and wait for the traffic police to arrive"
+    ]
   },
   {
     "id": 128,
@@ -1276,7 +2037,13 @@
       "تغيير المسرب",
       "زيادة السرعة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When a truck is performing an overtaking maneuver on your vehicle, you must:",
+    "choices_en": [
+      "Maintain or reduce your speed",
+      "Change lanes",
+      "Increase your speed"
+    ]
   },
   {
     "id": 129,
@@ -1286,9 +2053,15 @@
       "تجاوز الدراجة على ذات المسرب",
       "السماح لها باستخدام المسرب كاملاً"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When driving behind a motorcycle you must:",
+    "choices_en": [
+      "Allow the motorcycle to use half the lane",
+      "Overtake the motorcycle in the same lane",
+      "Allow it to use the full lane"
+    ]
   },
-{
+  {
     "id": 130,
     "question": "في حال إقتراب سائقين إثنين من تقاطع طرقات وهما قادمان من طريقين مختلفين:",
     "choices": [
@@ -1296,7 +2069,13 @@
       "وجب على السائق القادم من اليسار أن يفسح المجال لمرور السائق الآخر",
       "يمر كل في طريقه دون إعطاء أفضلية مرور لأحد"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When two drivers approach an intersection coming from two different roads:",
+    "choices_en": [
+      "The driver coming from the right must give way to the other driver",
+      "The driver coming from the left must give way to the other driver",
+      "Each proceeds on his way without giving right of way to anyone"
+    ]
   },
   {
     "id": 131,
@@ -1306,7 +2085,13 @@
       "تخفيف السرعة، تشغيل الاشارة قبل فترة زمنية كافية لتنبيه باقي مستخدمي الطريق والتأكد من المرايا والالتفات إلى البقع المعمية",
       "تخفيف السرعة، تشغيل اشارات التنبيه لتحذير السائقين، والتأكد من المرايا"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Before overtaking another vehicle, entering a bend, or overtaking, you must:",
+    "choices_en": [
+      "Slow down and turn on the signal when starting to change lanes",
+      "Slow down, turn on the signal far enough in advance to alert other road users, check the mirrors, and look at the blind spots",
+      "Slow down, turn on the hazard lights to warn drivers, and check the mirrors"
+    ]
   },
   {
     "id": 132,
@@ -1316,7 +2101,13 @@
       "ان يستعمل المسرب الايمن الى الطريق",
       "ان يضايق السائرين الى يمينه"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "In ordinary overtaking, the driver is not allowed to:",
+    "choices_en": [
+      "Use the left lane of the road",
+      "Use the right lane of the road",
+      "Crowd the drivers to his right"
+    ]
   },
   {
     "id": 133,
@@ -1326,7 +2117,13 @@
       "السيارة",
       "المشاة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Who has the right of way when a vehicle is turning and a pedestrian is crossing without a traffic light?",
+    "choices_en": [
+      "The one who passes faster, the one who arrived first",
+      "The car",
+      "The pedestrian"
+    ]
   },
   {
     "id": 134,
@@ -1336,7 +2133,13 @@
       "التي سطحها متعرج وفيه تجاويف",
       "التي يقع عليها ظل"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Ice forms more quickly on roads that are:",
+    "choices_en": [
+      "Flat",
+      "Uneven and have potholes",
+      "In the shade"
+    ]
   },
   {
     "id": 135,
@@ -1346,7 +2149,13 @@
       "يسير بغير الاتجاه المحدّد",
       "يبقى يقظاً ومسيطراً على سيارته بشكل يمكنه من إجراء جميع العمليات والمناورات المتوجبة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The vehicle driver is prohibited from:",
+    "choices_en": [
+      "Making sure overtaking is done without danger",
+      "Driving in a direction other than the designated one",
+      "Remaining alert and in control of his car in a way that enables him to perform all required operations and maneuvers"
+    ]
   },
   {
     "id": 136,
@@ -1356,7 +2165,13 @@
       "السير على الجانب الايمن من الطريق",
       "غسل المركبات على الطريق العام"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The vehicle driver is prohibited from:",
+    "choices_en": [
+      "Making sure the overtaking maneuver is done without danger",
+      "Driving on the right side of the road",
+      "Washing vehicles on the public road"
+    ]
   },
   {
     "id": 137,
@@ -1366,7 +2181,13 @@
       "يجري المناورة عكس الاتجاه في وسط الطريق العام",
       "أن يتأكد من إجراء مناورة التجاوز دون خطر"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The vehicle driver is prohibited from:",
+    "choices_en": [
+      "Driving in the designated direction",
+      "Making a U-turn in the middle of the public road",
+      "Making sure the overtaking maneuver is done without danger"
+    ]
   },
   {
     "id": 138,
@@ -1376,7 +2197,13 @@
       "لا تسرع اكثر من السرعة المحددة",
       "لا تسرع اكثر من السرعة الآمنة لحالة الطريق"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Common sense dictates that you:",
+    "choices_en": [
+      "Do not exceed a maximum speed of 80 km/h",
+      "Do not drive faster than the speed limit",
+      "Do not drive faster than the safe speed for the road conditions"
+    ]
   },
   {
     "id": 139,
@@ -1386,7 +2213,13 @@
       "اذا كان الطريق او ممر المشاة يسع سيارتك",
       "ولا في اي حال من الاحوال"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "You may leave the road to overtake another vehicle:",
+    "choices_en": [
+      "If the car in front of you is moving toward the left",
+      "If the road or pedestrian crossing has room for your car",
+      "Under no circumstances"
+    ]
   },
   {
     "id": 140,
@@ -1396,7 +2229,13 @@
       "تتجه نحو اليسار",
       "خلف مركبة عندها الافضلية (مثل اسعاف، دفاع مدني، اطفاء)"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "You may proceed cautiously on a yellow light if you:",
+    "choices_en": [
+      "Have entered the intersection",
+      "Are turning left",
+      "Are behind a vehicle that has the right of way (such as an ambulance, civil defense, fire brigade)"
+    ]
   },
   {
     "id": 141,
@@ -1406,7 +2245,13 @@
       "أن يتأكد من إجراء مناورة التجاوز دون خطر",
       "إصلاح المركبات على الطريق العام إلا في الضرورات القصوى"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The vehicle driver is prohibited from:",
+    "choices_en": [
+      "Driving on the right side of the road",
+      "Making sure the overtaking maneuver is done without danger",
+      "Repairing vehicles on the public road except in extreme necessity"
+    ]
   },
   {
     "id": 142,
@@ -1416,7 +2261,13 @@
       "عندما يريد أن يتجاوز سائق آخر",
       "عندما تكون رؤية الطريق إلى الأمام كافية"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The driver must keep to the far right side of the road:",
+    "choices_en": [
+      "When his car's speed is below the prevailing speed",
+      "When he wants to overtake another driver",
+      "When visibility of the road ahead is sufficient"
+    ]
   },
   {
     "id": 143,
@@ -1426,7 +2277,13 @@
       "0.3 غ\\ل",
       "0.4 غ\\ل"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "After three years of holding their driving license, vehicle drivers are prohibited from driving under the influence of alcohol at a level exceeding:",
+    "choices_en": [
+      "0.5 g/L",
+      "0.3 g/L",
+      "0.4 g/L"
+    ]
   },
   {
     "id": 144,
@@ -1436,7 +2293,13 @@
       "0 غ\\ل",
       "0.3 غ\\ل"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "During the first three years of holding your driving license, you must not exceed a blood alcohol level of:",
+    "choices_en": [
+      "0.5 g/L",
+      "0 g/L",
+      "0.3 g/L"
+    ]
   },
   {
     "id": 145,
@@ -1446,7 +2309,13 @@
       "استعمال يد واحدة للقيادة والرد على المكالمة باستعمال اليد الاخرى",
       "استعمال اليدين للقيادة والرد على المكالمة بواسطة الـ Bluetooth"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Drivers of vehicles are prohibited while driving from:",
+    "choices_en": [
+      "Using any type of communication device",
+      "Using one hand to drive and answering the call with the other hand",
+      "Using both hands to drive and answering the call via Bluetooth"
+    ]
   },
   {
     "id": 146,
@@ -1456,7 +2325,13 @@
       "120 كلم\\س",
       "80 كلم\\س"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "In the absence of signs specifying the speed, the maximum permitted speed on the highway is:",
+    "choices_en": [
+      "100 km/h",
+      "120 km/h",
+      "80 km/h"
+    ]
   },
   {
     "id": 147,
@@ -1466,7 +2341,13 @@
       "60 كلم\\س",
       "70 كلم\\س"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "In the absence of signs specifying the speed, the maximum permitted speed outside built-up areas is:",
+    "choices_en": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h"
+    ]
   },
   {
     "id": 148,
@@ -1476,7 +2357,13 @@
       "50 كلم\\س",
       "60 كلم\\س"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "In the absence of signs specifying the speed, the maximum permitted speed within built-up areas is:",
+    "choices_en": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ]
   },
   {
     "id": 149,
@@ -1486,7 +2373,13 @@
       "20 متر",
       "لا يمكنك الرجوع إلى الوراء بتاتا"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "You may reverse on the highway if the exit is at a distance of:",
+    "choices_en": [
+      "10 meters",
+      "20 meters",
+      "You may never reverse"
+    ]
   },
   {
     "id": 150,
@@ -1496,7 +2389,13 @@
       "30 متر",
       "40 متر"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The warning triangle is placed in front of or behind the vehicle according to the direction of travel, on ordinary roads at a distance of:",
+    "choices_en": [
+      "20 meters",
+      "30 meters",
+      "40 meters"
+    ]
   },
   {
     "id": 151,
@@ -1506,7 +2405,13 @@
       "50 متر",
       "60 متر"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "The warning triangle is placed in front of or behind the vehicle according to the direction of travel, on the highway at a distance of:",
+    "choices_en": [
+      "70 meters",
+      "50 meters",
+      "60 meters"
+    ]
   },
   {
     "id": 152,
@@ -1516,7 +2421,13 @@
       "150 متر",
       "130 متر"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Pedestrians must use the sidewalks, crossings, or bridges designated for them within a distance of:",
+    "choices_en": [
+      "170 meters",
+      "150 meters",
+      "130 meters"
+    ]
   },
   {
     "id": 153,
@@ -1526,7 +2437,13 @@
       "متابعة السير",
       "يجب على السائق أن يقف ويقوم بالاجراءات المناسبة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When you cause an accident, even if only material damage:",
+    "choices_en": [
+      "The driver has the right to flee and not bear responsibility",
+      "Continue driving",
+      "The driver must stop and take the appropriate measures"
+    ]
   },
   {
     "id": 154,
@@ -1536,7 +2453,13 @@
       "تُحتجز السيارة",
       "تعتبر المخالفة من الفئة الثانية"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "In case the brake lights fail:",
+    "choices_en": [
+      "All of the above",
+      "The car is impounded",
+      "The violation is considered a second-category offense"
+    ]
   },
   {
     "id": 155,
@@ -1546,7 +2469,13 @@
       "أربعة سنوات من تاريخ صنعها أو 1.6 ملم سماكة الغوما أيهما قبل",
       "خمسة سنوات من تاريخ صنعها أو 1.6 ملم سماكة الغوما أيهما بعد"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The age of the tires must not exceed:",
+    "choices_en": [
+      "Six years from the date of manufacture or 1.6 mm tread thickness, whichever comes first",
+      "Four years from the date of manufacture or 1.6 mm tread thickness, whichever comes first",
+      "Five years from the date of manufacture or 1.6 mm tread thickness, whichever comes later"
+    ]
   },
   {
     "id": 156,
@@ -1556,7 +2485,13 @@
       "تجاوز الإشارة الضوئية الخضراء بسرعة",
       "عدم تجاوز الإشارة الضوئية الخضراء لعدم عرقلة السير"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When the traffic light is green during traffic congestion, road users must:",
+    "choices_en": [
+      "Drive slowly so as not to obstruct traffic",
+      "Pass the green light quickly",
+      "Not pass the green light so as not to obstruct traffic"
+    ]
   },
   {
     "id": 157,
@@ -1566,7 +2501,13 @@
       "الشهرين",
       "الشهر الواحد"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "A vehicle sale power of attorney may be used for a period not exceeding:",
+    "choices_en": [
+      "Three months",
+      "Two months",
+      "One month"
+    ]
   },
   {
     "id": 158,
@@ -1576,7 +2517,13 @@
       "يمكن اجتيازها",
       "يمكن السير عليها"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Broken lines in the middle of the road:",
+    "choices_en": [
+      "Cannot be crossed",
+      "Can be crossed",
+      "Can be driven on"
+    ]
   },
   {
     "id": 159,
@@ -1586,7 +2533,13 @@
       "من غير اللونين الأبيض أو الأصفر",
       "من غير اللونين الأبيض أو الأزرق"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "It is prohibited to equip all types of vehicles at the front with lights:",
+    "choices_en": [
+      "Other than blue or yellow",
+      "Other than white or yellow",
+      "Other than white or blue"
+    ]
   },
   {
     "id": 160,
@@ -1596,7 +2549,13 @@
       "يستعمل المسلك الأيسر",
       "يستعمل المسلك الأوسط"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the roadway is divided into two lanes separated by yellow lines, the driver, during normal driving, must:",
+    "choices_en": [
+      "Use the right lane",
+      "Use the left lane",
+      "Use the middle lane"
+    ]
   },
   {
     "id": 161,
@@ -1606,7 +2565,13 @@
       "يحظر اجتياز الخطين من ناحية الخط المتقطّع ويحظّر الاجتياز من ناحية الخط المتواصل",
       "يمكن اجتياز الخطين من ناحية الخط المتقطع ويحظّر الاجتياز من ناحية الخط المتواصل"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the lane is marked by a broken yellow line alongside a continuous yellow line:",
+    "choices_en": [
+      "The two lines may be crossed from the side of the continuous line and crossing is prohibited from the side of the broken line",
+      "Crossing the two lines is prohibited from the side of the broken line and crossing is prohibited from the side of the continuous line",
+      "The two lines may be crossed from the side of the broken line and crossing is prohibited from the side of the continuous line"
+    ]
   },
   {
     "id": 162,
@@ -1616,7 +2581,13 @@
       "للمركبات",
       "للشاحنات"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The driver must give right of way:",
+    "choices_en": [
+      "To pedestrians",
+      "To vehicles",
+      "To trucks"
+    ]
   },
   {
     "id": 163,
@@ -1626,7 +2597,13 @@
       "المتجهة صعوداً",
       "وبحسب شكل الطريق"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "On roads with a steep gradient where passing is impossible, the right of way is for vehicles:",
+    "choices_en": [
+      "Going downhill",
+      "Going uphill",
+      "According to the shape of the road"
+    ]
   },
   {
     "id": 164,
@@ -1636,7 +2613,13 @@
       "مترين",
       "ثانيتين"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "A safe following distance must always be maintained within cities of:",
+    "choices_en": [
+      "One second",
+      "Two meters",
+      "Two seconds"
+    ]
   },
   {
     "id": 165,
@@ -1646,7 +2629,13 @@
       "للسيارة الآتية من الجهة اليمنى",
       "للسيارة الآتية من جهة اليسار"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Within a roundabout, the right of way is always:",
+    "choices_en": [
+      "For the vehicle inside the roundabout",
+      "For the vehicle coming from the right side",
+      "For the vehicle coming from the left side"
+    ]
   },
   {
     "id": 166,
@@ -1656,7 +2645,13 @@
       "الاتجاهين",
       "الاتجاه الواحد"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Overtaking is prohibited inside tunnels that are:",
+    "choices_en": [
+      "Multi-directional",
+      "Two-way",
+      "One-way"
+    ]
   },
   {
     "id": 167,
@@ -1666,7 +2661,13 @@
       "السير بسرعة",
       "تخفيف سرعة مركبته"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When there are public works, the driver must:",
+    "choices_en": [
+      "Turn on the car's lights",
+      "Drive fast",
+      "Reduce the speed of the vehicle"
+    ]
   },
   {
     "id": 168,
@@ -1676,7 +2677,13 @@
       "المقاعد الخلفية",
       "المقاعد المخصصة للأطفال"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Children under the age of five must sit in:",
+    "choices_en": [
+      "The parents' lap",
+      "The rear seats",
+      "Seats designated for children"
+    ]
   },
   {
     "id": 169,
@@ -1686,7 +2693,13 @@
       "اليمين",
       "اليسار"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When approaching an intersection, the right of way is always for the driver coming from the:",
+    "choices_en": [
+      "Inside the intersection",
+      "Right",
+      "Left"
+    ]
   },
   {
     "id": 170,
@@ -1696,7 +2709,13 @@
       "Cm 65",
       "Cm 70"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When overtaking a bicycle or a motorcycle, the driver must keep a lateral overtaking distance of no less than:",
+    "choices_en": [
+      "75 cm",
+      "65 cm",
+      "70 cm"
+    ]
   },
   {
     "id": 171,
@@ -1706,7 +2725,13 @@
       "CM 50",
       "CM 60"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "When overtaking a car or another vehicle, the driver must keep a lateral overtaking distance of no less than:",
+    "choices_en": [
+      "45 cm",
+      "50 cm",
+      "60 cm"
+    ]
   },
   {
     "id": 172,
@@ -1716,7 +2741,13 @@
       "السير على الطريق دون السرعة المعمول بها",
       "التوقف المفاجئ بدون سبب مشروع على المعبد"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Drivers are prohibited from obstructing the movement of vehicles by:",
+    "choices_en": [
+      "Slow stopping",
+      "Driving on the road below the applicable speed",
+      "Sudden stopping without a legitimate reason on the roadway"
+    ]
   },
   {
     "id": 173,
@@ -1726,7 +2757,13 @@
       "لمجموعة المركبات مقابل المركبة المنفردة",
       "للمركبات الثقيلة مقابل المركبات المنفردة"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "In case of meeting on a two-way road, reversing applies to:",
+    "choices_en": [
+      "The single vehicle against the group of vehicles",
+      "The group of vehicles against the single vehicle",
+      "Heavy vehicles against single vehicles"
+    ]
   },
   {
     "id": 174,
@@ -1736,7 +2773,13 @@
       "للسائق الأتي من جهة اليمين",
       "للسائق المتجه على الطريق التي يشكل اثنان منهما طريقاً مستقيماً"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the intersection consists of three branches, the right of way is for:",
+    "choices_en": [
+      "Driving on the road carefully and prudently",
+      "The driver coming from the right side",
+      "The driver traveling on the road that two of them form a straight road"
+    ]
   },
   {
     "id": 175,
@@ -1746,7 +2789,13 @@
       "بالإنحراف الفوري إلى إتجاه اليمين أو اليسار بحسب إتجاه التحويلة التي يرغب سلوكها لعدم عرقلة السير",
       "بالإنحراف التدريجي إلى إتجاه اليمين أو اليسار بحسب إتجاه التحويلة التي يرغب سلوكها"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "When there is a sign on a highway indicating a diversion or a direction toward another road, all drivers who want to exit, as soon as they see this sign, must:",
+    "choices_en": [
+      "Veer to the middle according to the direction of the diversion they wish to take so as not to obstruct traffic",
+      "Veer immediately to the right or left according to the direction of the diversion they wish to take so as not to obstruct traffic",
+      "Veer gradually to the right or left according to the direction of the diversion they wish to take"
+    ]
   },
   {
     "id": 176,
@@ -1756,7 +2805,13 @@
       "المقاعد الأمامية فقط في جميع أنواع المركبات",
       "المقاعد الأمامية والخلفية على الأوتوسترادات في جميع أنواع المركبات"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "The seat belt must be used by occupants of the seats:",
+    "choices_en": [
+      "The front and rear seats in all types of vehicles",
+      "The front seats only in all types of vehicles",
+      "The front and rear seats on highways in all types of vehicles"
+    ]
   },
   {
     "id": 177,
@@ -1766,7 +2821,13 @@
       "تعني هذه الإشارة انتباه هناك سير متوقف",
       "تعني هذه الإشارة (حذار- قف) لكل مستخدمي الطريق"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the police officer's hand is raised vertically:",
+    "choices_en": [
+      "This signal means slow down",
+      "This signal means caution, there is stopped traffic",
+      "This signal means (caution - stop) for all road users"
+    ]
   },
   {
     "id": 178,
@@ -1776,7 +2837,13 @@
       "تعني هذه الإشارة (تمهل) لكل مستخدمي الطريق القادمين من إتجاهات تتقاطع مع إتجاهات اليد أو اليدين الممدودتين",
       "تعني هذه الإشارة (افساح المجال) لكل مستخدمي الطريق القادمين من اتجاهات تتقاطع مع إتجاهات اليد أو اليدين الممدودتين"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the police officer's arms are extended horizontally:",
+    "choices_en": [
+      "This signal means (stop) for all road users coming from directions that intersect with the directions of the extended arm or arms",
+      "This signal means (slow down) for all road users coming from directions that intersect with the directions of the extended arm or arms",
+      "This signal means (give way) for all road users coming from directions that intersect with the directions of the extended arm or arms"
+    ]
   },
   {
     "id": 179,
@@ -1786,7 +2853,13 @@
       "بلوحة تسجيل من الخلف",
       "بلوحتي التسجيل تحملان رقم تسجيل المركبة في الأمام والخلف"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Every vehicle must be equipped with:",
+    "choices_en": [
+      "Two registration plates bearing the vehicle's registration number at the front or rear",
+      "A registration plate at the rear",
+      "Two registration plates bearing the vehicle's registration number at the front and rear"
+    ]
   },
   {
     "id": 180,
@@ -1796,7 +2869,13 @@
       "5 سنوات",
       "10 سنوات"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The driver must renew the private driving license up to the age of 50 every:",
+    "choices_en": [
+      "20 years",
+      "5 years",
+      "10 years"
+    ]
   },
   {
     "id": 181,
@@ -1806,7 +2885,13 @@
       "لتفادي زحمة السير الخانقة",
       "اعطاء مستخدمي الطريق الآخرين التنبيهات الضرورية لتفادي وقوع الحوادث"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The use of horns is prohibited except in the following cases:",
+    "choices_en": [
+      "To alert other drivers that they must move quickly",
+      "To avoid heavy traffic congestion",
+      "To give other road users the necessary warnings to avoid accidents"
+    ]
   },
   {
     "id": 182,
@@ -1816,7 +2901,13 @@
       "عليه النزول أو الصعود من الجهة اليمنى لوجهته",
       "عليه النزول أو الصعود من الجهة اليسرى لوجهته"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "In the absence of signs or markings for exiting the car:",
+    "choices_en": [
+      "He must exit or enter from the side he deems suitable and easier for his movement",
+      "He must exit or enter from the right side of his direction",
+      "He must exit or enter from the left side of his direction"
+    ]
   },
   {
     "id": 183,
@@ -1826,7 +2917,13 @@
       "الإتجاه إلى اليسار",
       "تخفيف السرعة والتوقّف"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "If the driver lowers and raises his arm along the side of the vehicle, it means:",
+    "choices_en": [
+      "The car is broken down",
+      "Turning left",
+      "Slowing down and stopping"
+    ]
   },
   {
     "id": 184,
@@ -1836,7 +2933,13 @@
       "الإتجاه لليسار",
       "إشارة للسيارات بان السائق يخفف السرعة"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "If the driver extends his arm straight horizontally, it means:",
+    "choices_en": [
+      "Going backward",
+      "Turning left",
+      "A signal to cars that the driver is slowing down"
+    ]
   },
   {
     "id": 185,
@@ -1846,7 +2949,13 @@
       "الاتجاه إلى اليسار",
       "التوقف"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "If the driver raises his arm vertically, it means:",
+    "choices_en": [
+      "Turning right",
+      "Turning left",
+      "Stopping"
+    ]
   },
   {
     "id": 186,
@@ -1856,7 +2965,13 @@
       "السير بسرعة",
       "لا يسمح للسيارات المتجهة إلى اليمين بعبور الاشارة الحمراء"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Vehicles turning right are allowed to pass the red light provided that:",
+    "choices_en": [
+      "Stopping at the light and then ensuring safe passage without exposing pedestrians and other traffic movements to any danger",
+      "Driving fast",
+      "Cars turning right are not allowed to pass the red light"
+    ]
   },
   {
     "id": 187,
@@ -1866,7 +2981,13 @@
       "يسمح إجتيازها لكن شرط الانتقال بسرعة",
       "يسمح إجتيازها إلى المسلك أو المسرب المجاور بحذر بعد تأمين الطريق"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "When there are long continuous lines:",
+    "choices_en": [
+      "Crossing them to the adjacent lane is prohibited",
+      "Crossing them is allowed but on condition of moving quickly",
+      "Crossing them to the adjacent lane is allowed with caution after ensuring the road is clear"
+    ]
   },
   {
     "id": 188,
@@ -1876,7 +2997,13 @@
       "12 سنة",
       "8 سنوات"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Placing children in the front seats is prohibited under the age of:",
+    "choices_en": [
+      "10 years",
+      "12 years",
+      "8 years"
+    ]
   },
   {
     "id": 189,
@@ -1886,7 +3013,13 @@
       "تسبب الحوادث وتسد مسارب المياه",
       "تسبب بعرقلة عمل رجال الأمن"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "question_en": "Anyone is prohibited from throwing anything from the car because it:",
+    "choices_en": [
+      "Causes the removal of road surface markings",
+      "Causes accidents and blocks water channels",
+      "Obstructs the work of the police officers"
+    ]
   },
   {
     "id": 190,
@@ -1896,7 +3029,13 @@
       "الخطوط الصفراء تكون لوجهة سير واحدة والخطوط البيضاء لوجهتين معاكستين",
       "الخطوط البيضاء تفصل السيارات المتجهة بنفس الإتجاه في حين الصفراء تفصل السيارات التي تسير بوجهتين معاكستين"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "What is the difference between the white and yellow lines in the middle of the road?",
+    "choices_en": [
+      "The yellow lines are placed only on the edge of the road, while the white ones are for separating cars",
+      "The yellow lines are for one direction of travel and the white lines for two opposite directions",
+      "The white lines separate cars traveling in the same direction, while the yellow ones separate cars traveling in two opposite directions"
+    ]
   },
   {
     "id": 191,
@@ -1906,7 +3045,13 @@
       "30 متر",
       "50 متر"
     ],
-    "correctIndex": 0
+    "correctIndex": 0,
+    "question_en": "Stopping and parking are prohibited at the tops of hills, on bends, intersections, roundabouts, and traffic lights up to a distance of:",
+    "choices_en": [
+      "25 meters",
+      "30 meters",
+      "50 meters"
+    ]
   },
   {
     "id": 192,
@@ -1916,7 +3061,13 @@
       "نقل زجاجات أو عبوات كحول مقفلة من مصنعها داخل المركبة",
       "نقل زجاجات أو عبوات كحول غير مقفلة من مصنعها داخل المركبة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "The vehicle driver is prohibited from:",
+    "choices_en": [
+      "Transporting bottles or containers of expired alcohol",
+      "Transporting bottles or containers of alcohol sealed from the factory inside the vehicle",
+      "Transporting bottles or containers of alcohol not sealed from the factory inside the vehicle"
+    ]
   },
   {
     "id": 193,
@@ -1926,7 +3077,13 @@
       "بعد الخطوط البيضاء المخصصة لعبور المشاة",
       "قبل الخطوط البيضاء المخصصة لعبور المشاة"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "Vehicles must stop or park:",
+    "choices_en": [
+      "On the white pedestrian crossing lines",
+      "After the white pedestrian crossing lines",
+      "Before the white pedestrian crossing lines"
+    ]
   },
   {
     "id": 194,
@@ -1936,1117 +3093,1729 @@
       "تجاوز الخطوط المتقطعة البيضاء",
       "السير على الخطوط البيضاء"
     ],
-    "correctIndex": 2
+    "correctIndex": 2,
+    "question_en": "A vehicle driver is prohibited from:",
+    "choices_en": [
+      "Driving between the white lines",
+      "Crossing the broken white lines",
+      "Driving on the white lines"
+    ]
   },
   {
-  "id": 195,
-  "question": "",
-  "image": "assets/signs/sign-000.png",
-  "choices": [
-    "إنتبه مطبات",
-    "إنتبه طريق منزلق",
-    "إنتبه انخفاضات"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 196,
-  "question": "",
-  "image": "assets/signs/sign-001.png",
-  "choices": [
-    "اتجاه مستديرة",
-    "إنتبه منعطف يسار",
-    "إنتبه منعطف يمين"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 197,
-  "question": "",
-  "image": "assets/signs/sign-002.png",
-  "choices": [
-    "إنتبه منعطف يسار",
-    "إنتبه منعطف يمين",
-    "اتجاه اختياري إلى اليسار"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 198,
-  "question": "",
-  "image": "assets/signs/sign-003.png",
-  "choices": [
-    "إنتبه منطقة سير على خطين",
-    "إنتبه منعطفان أولهما يسار",
-    "إنتبه منعطفان أولهما يمين"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 199,
-  "question": "",
-  "image": "assets/signs/sign-004.png",
-  "choices": [
-    "إنتبه منطقة سير على خطين",
-    "إنتبه منعطفان أولهما يسار",
-    "إنتبه منعطفان أولهما يمين"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 200,
-  "question": "",
-  "image": "assets/signs/sign-005.png",
-  "choices": [
-    "إنتبه طريق ضيق",
-    "إنتبه منحدر خطر",
-    "إنتبه طريق منزلق"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 201,
-  "question": "",
-  "image": "assets/signs/sign-006.png",
-  "choices": [
-    "ممر غير مؤمن",
-    "إنتبه أولاد أو مدرسة",
-    "ممنوع المرور"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 202,
-  "question": "",
-  "image": "assets/signs/sign-007.png",
-  "choices": [
-    "حيوانات مشردة",
-    "إنتبه حيوانات",
-    "ممنوع الحيوانات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 203,
-  "question": "",
-  "image": "assets/signs/sign-008.png",
-  "choices": [
-    "إنتبه منطقة سير على خطين",
-    "إنتبه تقاطع مع طرقات بدون أفضلية",
-    "منطقة سير على اليمين"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 204,
-  "question": "",
-  "image": "assets/signs/sign-009.png",
-  "choices": [
-    "إنتبه مستديرة",
-    "ممنوع الإلتفاف",
-    "إنتبه أخطار متنوعة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 205,
-  "question": "",
-  "image": "assets/signs/sign-010.png",
-  "choices": [
-    "إنتبه تقاطع",
-    "إنتبه تقاطع مع طرقات بدون أفضلية",
-    "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 206,
-  "question": "",
-  "image": "assets/signs/sign-011.png",
-  "choices": [
-    "إنتبه تقاطع مع طرقات بدون أفضلية",
-    "إلتقاء مع طريق سريع",
-    "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 207,
-  "question": "",
-  "image": "assets/signs/sign-012.png",
-  "choices": [
-    "إنتبه تقاطع على اليمين",
-    "إنتبه تقاطع مع طرقات بدون أفضلية",
-    "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 208,
-  "question": "",
-  "image": "assets/signs/sign-013.png",
-  "choices": [
-    "طريق أفضلية",
-    "نهاية تحديد السرعة",
-    "موقف لحظة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 209,
-  "question": "",
-  "image": "assets/signs/sign-014.png",
-  "choices": [
-    "إنتبه ممر للمشاة",
-    "ممنوع مرور المشاة",
-    "ممر غير مخصص للمشاة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 210,
-  "question": "",
-  "image": "assets/signs/sign-015.png",
-  "choices": [
-    "إنتبه ممر للدراجات",
-    "ممنوع مرور الدراجات",
-    "ممر لعربات اليد"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 211,
-  "question": "",
-  "image": "assets/signs/sign-016.png",
-  "choices": [
-    "إنتبه طريق واسع",
-    "إنتبه طريق ضيق على اليسار",
-    "إنتبه طريق ضيق"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 212,
-  "question": "",
-  "image": "assets/signs/sign-017.png",
-  "choices": [
-    "أفضلية مرور لليمين",
-    "إنتبه طريق ضيق على اليسار",
-    "طريق ضيق على اليمين"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 213,
-  "question": "",
-  "image": "assets/signs/sign-018.png",
-  "choices": [
-    "أفضلية المرور للسيارات المتجهة من الجهة المقابلة",
-    "نهاية الأفضلية",
-    "إنتبه طريق ضيق على اليمين"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 214,
-  "question": "",
-  "image": "assets/signs/sign-019.png",
-  "choices": [
-    "إنتبه طريق ضيق",
-    "منطقة جبلية",
-    "انتبه احتمال سقوط أو وجود صخور"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 215,
-  "question": "",
-  "image": "assets/signs/sign-020.png",
-  "choices": [
-    "ممنوع الدخول لعموم السيارات",
-    "إنتبه إشارات كهربائية",
-    "إنتبه مستديرة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 216,
-  "question": "",
-  "image": "assets/signs/sign-021.png",
-  "choices": [
-    "ممنوع المرور",
-    "إنتبه أفسح الطريق - طريق أفضلية أمامك",
-    "إنتبه مخاطر متنوعة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 217,
-  "question": "",
-  "image": "assets/signs/sign-022.png",
-  "choices": [
-    "ممنوع المرور",
-    "أفسح الطريق - طريق أفضلية أمامك",
-    "إنتبه مخاطر متنوعة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 218,
-  "question": "",
-  "image": "assets/signs/sign-023.png",
-  "choices": [
-    "ممنوع المرور",
-    "نهاية الأفضلية",
-    "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 219,
-  "question": "",
-  "image": "assets/signs/sign-024.png",
-  "choices": [
-    "ممنوع التجاوز لجميع المركبات",
-    "نهاية الأفضلية",
-    "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 220,
-  "question": "",
-  "image": "assets/signs/sign-025.png",
-  "choices": [
-    "قف",
-    "ممنوع الدخول",
-    "طريق على خط واحد"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 221,
-  "question": "",
-  "image": "assets/signs/sign-026.png",
-  "choices": [
-    "ممنوع الدخول لعموم السيارات",
-    "طريق على خط واحد",
-    "ممنوع الوقوف"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 222,
-  "question": "",
-  "image": "assets/signs/sign-027.png",
-  "choices": [
-    "ممنوع الوقوف",
-    "أخطار متنوعة",
-    "ممنوع المرور"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 223,
-  "question": "",
-  "image": "assets/signs/sign-028.png",
-  "choices": [
-    "ممنوع التجاوز للشاحنات",
-    "ممنوع المرور",
-    "ممنوع التجاوز لجميع المركبات"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 224,
-  "question": "",
-  "image": "assets/signs/sign-029.png",
-  "choices": [
-    "السرعة 80 كلم في الساعة",
-    "إنتبه أفسح الطريق - طريق أفضلية أمامك",
-    "السرعة القصوى 30 كلم في الساعة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 225,
-  "question": "",
-  "image": "assets/signs/sign-030.png",
-  "choices": [
-    "مسرح",
-    "ممنوع الوقوف",
-    "ممنوع التزمير"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 226,
-  "question": "",
-  "image": "assets/signs/sign-031.png",
-  "choices": [
-    "طريق مخصص للشاحنات",
-    "ممنوع التجاوز للشاحنات",
-    "مسموح التجاوز للشاحنات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 227,
-  "question": "",
-  "image": "assets/signs/sign-032.png",
-  "choices": [
-    "مسموح مرور عربات الحيوانات",
-    "ممنوع مرور المشاة",
-    "ممنوع مرور عربات الحيوانات"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 228,
-  "question": "",
-  "image": "assets/signs/sign-033.png",
-  "choices": [
-    "ممنوع مرور المشاة",
-    "إنتبه طريق مخصص للمشاة",
-    "ممنوع مرور السيارات"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 229,
-  "question": "",
-  "image": "assets/signs/sign-034.png",
-  "choices": [
-    "ممنوع المرور للدراجات",
-    "ممر إجباري للسيارات",
-    "طريق مخصص للدراجات"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 230,
-  "question": "",
-  "image": "assets/signs/sign-035.png",
-  "choices": [
-    "طريق مخصص للدراجات النارية",
-    "ممر خاص للدراجات النارية",
-    "ممنوع المرور للدراجات النارية"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 231,
-  "question": "",
-  "image": "assets/signs/sign-036.png",
-  "choices": [
-    "ممنوع وقوف عربات اليد",
-    "طريق مخصص لعربات اليد",
-    "ممنوع مرور عربات اليد"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 232,
-  "question": "",
-  "image": "assets/signs/sign-037.png",
-  "choices": [
-    "ممنوع وقوف السيارات",
-    "ممنوع المرور لعموم السيارات",
-    "طريق مخصص للسيارات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 233,
-  "question": "",
-  "image": "assets/signs/sign-038.png",
-  "choices": [
-    "ممنوع مرور الشاحنات",
-    "ممنوع مرور الشاحنات التي يزيد طولها عن 2,3 متر",
-    "ممنوع مرور السيارات التي يزيد عرضها عن 2,3 متر"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 234,
-  "question": "",
-  "image": "assets/signs/sign-039.png",
-  "choices": [
-    "ممنوع مرور الشاحنات التي يزيد وزنها عن 3,5 طن",
-    "ممنوع مرور الشاحنات التي يفوق علوها عن 3,5 متر",
-    "اتجاه إجباري للشاحنات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 235,
-  "question": "",
-  "image": "assets/signs/sign-040.png",
-  "choices": [
-    "ممنوع زيادة الحمولة أكثر من 10 أمتار",
-    "ممنوع مرور الشاحنات التي يفوق طولها عن 10 أمتار",
-    "ممنوع مرور الشاحنات التي تزيد حمولتها عن 6,5 طن"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 236,
-  "question": "",
-  "image": "assets/signs/sign-041.png",
-  "choices": [
-    "ممنوع مرور الشاحنات التي يفوق علوها عن 7 أمتار",
-    "ممنوع مرور الشاحنات التي تزيد حمولة مل دولاب منها عن 7 طن",
-    "ممنوع مرور الشاحنات التي تزيد حمولتها عن 7 طن"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 237,
-  "question": "",
-  "image": "assets/signs/sign-042.png",
-  "choices": [
-    "ممنوع السرعة",
-    "بداية الإشارات الممنوعة",
-    "نهاية الإشارات الممنوعة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 238,
-  "question": "",
-  "image": "assets/signs/sign-043.png",
-  "choices": [
-    "نهاية تحديد السرعة",
-    "تحديد السرعة",
-    "بداية تحديد السرعة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 239,
-  "question": "",
-  "image": "assets/signs/sign-044.png",
-  "choices": [
-    "الإلتفاف على اليمين",
-    "ممنوع الإلتفاف على اليمين",
-    "اتجاه إجباري على اليسار"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 240,
-  "question": "",
-  "image": "assets/signs/sign-045.png",
-  "choices": [
-    "ممنوع الإلتفاف على اليسار",
-    "الإلتفاف على اليسار",
-    "اتجاه اختياري مستقيم أو يمين"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 241,
-  "question": "",
-  "image": "assets/signs/sign-046.png",
-  "choices": [
-    "ممنوع المرور يمين ويسار",
-    "اتجاه اختياري يمين ويسار",
-    "اتجاه إجباري مستقيم"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 242,
-  "question": "",
-  "image": "assets/signs/sign-047.png",
-  "choices": [
-    "اتجاه إجباري للشاحنات لجهة اليمين",
-    "ممنوع الاتجاه نحو اليسار",
-    "اتجاه اختياري يمين أو مستقيم"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 243,
-  "question": "",
-  "image": "assets/signs/sign-048.png",
-  "choices": [
-    "اتجاه اختياري مستقيم أو يسار",
-    "ممر إجباري نحو اليسار",
-    "ممنوع الاتجاه نحو اليسار"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 244,
-  "question": "",
-  "image": "assets/signs/sign-049.png",
-  "choices": [
-    "اتجاه اختياري نحو اليمين",
-    "خط الطريق الرئيسية",
-    "ممر إجباري نحو اليسار"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 245,
-  "question": "",
-  "image": "assets/signs/sign-050.png",
-  "choices": [
-    "ممنوع الالتفاف إلى اليمين",
-    "ممر إجباري يمين",
-    "اتجاه اختياري مستقيم"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 246,
-  "question": "",
-  "image": "assets/signs/sign-051.png",
-  "choices": [
-    "اتجاه اختياري نحو اليمين",
-    "ممر إجباري يمين أو يسار",
-    "ممنوع الالتفاف يمين أو يسار"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 247,
-  "question": "",
-  "image": "assets/signs/sign-052.png",
-  "choices": [
-    "طريق للمشاة والدراجات الهوائية",
-    "طريق مخصص للدراجات الهوائية",
-    "نهاية حلبة الدراجات الهوائية"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 248,
-  "question": "",
-  "image": "assets/signs/sign-053.png",
-  "choices": [
-    "طريق للمشاة والدراجات فقط",
-    "نهاية حلبة الدراجات الهوائية",
-    "ممنوع مرور المشاة والدراجات الهوائية"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 249,
-  "question": "",
-  "image": "assets/signs/sign-054.png",
-  "choices": [
-    "وجهة السير",
-    "اتجاه إجباري يمين",
-    "ممنوع الالتفاف يميناً"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 250,
-  "question": "",
-  "image": "assets/signs/sign-055.png",
-  "choices": [
-    "وجهة السير",
-    "الالتفاف الزامي",
-    "ممنوع الالتفاف"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 251,
-  "question": "",
-  "image": "assets/signs/sign-056.png",
-  "choices": [
-    "نهاية منع تجاوز الأوتوبيسات",
-    "ممنوع مرور الأوتوبيسات",
-    "طريق مخصص للأوتوبيسات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 252,
-  "question": "",
-  "image": "assets/signs/sign-057.png",
-  "choices": [
-    "ممنوع مرور الشاحنات التي يزيد وزنها عن 6,5 طن",
-    "طريق مخصص للشاحنات",
-    "ممنوع مرور الشاحنات"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 253,
-  "question": "",
-  "image": "assets/signs/sign-058.png",
-  "choices": [
-    "ممنوع وقوف الشاحنات",
-    "طريق الزامي للشاحنات",
-    "ممنوع مرور الشاحنات التي تزيد حمولتها عن 6,5 طن"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 254,
-  "question": "",
-  "image": "assets/signs/sign-059.png",
-  "choices": [
-    "ممنوع مرور الشاحنات التي تجر قاطرة",
-    "طريق الزامي للشاحنات",
-    "ممنوع مرور الشاحنات المحملة مواد خطرة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 255,
-  "question": "",
-  "image": "assets/signs/sign-060.png",
-  "choices": [
-    "موقف لحظة للآليات الزراعية",
-    "طريق مخصص للآليات الزراعية",
-    "ممنوع مرور الآليات الزراعية"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 256,
-  "question": "",
-  "image": "assets/signs/sign-061.png",
-  "choices": [
-    "إنتبه منطقة سير على خطين",
-    "نهاية منع التجاوز",
-    "نهاية منع تجاوز الشاحنات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 257,
-  "question": "",
-  "image": "assets/signs/sign-062.png",
-  "choices": [
-    "نهاية منع تجاوز الشاحنات",
-    "إنتبه منطقة سير على خطين",
-    "طريق مخصص للشاحنات فقط"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 258,
-  "question": "",
-  "image": "assets/signs/sign-063.png",
-  "choices": [
-    "ممنوع الوقوف",
-    "ممنوع التجاوز لجميع المركبات",
-    "ممنوع المرور"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 259,
-  "question": "",
-  "image": "assets/signs/sign-064.png",
-  "choices": [
-    "ممنوع الوقوف والتوقف",
-    "ممنوع الوقوف",
-    "ممنوع المرور"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 260,
-  "question": "",
-  "image": "assets/signs/sign-065.png",
-  "choices": [
-    "ممنوع الوقوف في هذا المكان",
-    "ممنوع المرور بهذا الاتجاه",
-    "اتجاه إجباري مستقيم"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 261,
-  "question": "",
-  "image": "assets/signs/sign-066.png",
-  "choices": [
-    "ممنوع الوقوف يساراً",
-    "وجهة السير إلى اليسار",
-    "ممنوع الاتجاه نحو اليسار"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 262,
-  "question": "",
-  "image": "assets/signs/sign-067.png",
-  "choices": [
-    "وجهة السير إلى اليمين",
-    "ممنوع الوقوف ناحية اليمين",
-    "ممنوع الاتجاه نحو اليمين"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 263,
-  "question": "",
-  "image": "assets/signs/sign-068.png",
-  "choices": [
-    "موقع توقف",
-    "وجهة سير مستديرة",
-    "ممنوع الإلتفاف"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 264,
-  "question": "",
-  "image": "assets/signs/sign-069.png",
-  "choices": [
-    "ممنوع الوقوف أكثر من ثلاثين دقيقة",
-    "أقصى سرعة إجبارية",
-    "أدنى سرعة إجبارية"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 265,
-  "question": "",
-  "image": "assets/signs/sign-070.png",
-  "choices": [
-    "ممنوع الوقوف أكثر من ثلاثين دقيقة",
-    "السرعة القصوى 30",
-    "نهاية أدنى سرعة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 266,
-  "question": "",
-  "image": "assets/signs/sign-071.png",
-  "choices": [
-    "إنتبه طريق منزلق",
-    "يجب نزع السلاسل المعدنية",
-    "السيارات المجهزة بسلاسل معدنية فقط"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 267,
-  "question": "",
-  "image": "assets/signs/sign-072.png",
-  "choices": [
-    "متنزّه",
-    "طريق للمشاة",
-    "ممنوع المرور للمشاة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 268,
-  "question": "",
-  "image": "assets/signs/sign-073.png",
-  "choices": [
-    "طريق مخصص للمشاة",
-    "ممر للمشاة فوق الطريق",
-    "نهاية طريق للمشاة"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 269,
-  "question": "",
-  "image": "assets/signs/sign-074.png",
-  "choices": [
-    "ممنوع وقوف الدراجات الهوائية",
-    "ممنوع مرور الدراجات الهوائية",
-    "حلبة مخصصة للدراجات الهوائية"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 270,
-  "question": "",
-  "image": "assets/signs/sign-075.png",
-  "choices": [
-    "اتجاه إلزامي يساراً",
-    "ممنوع الإلتفاف يساراً",
-    "ممنوع الوقوف يساراً"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 271,
-  "question": "",
-  "image": "assets/signs/sign-076.png",
-  "choices": [
-    "إنتبه جسر متحرك",
-    "طريق على خطين موصول بجسر",
-    "مستشفى"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 272,
-  "question": "",
-  "image": "assets/signs/sign-077.png",
-  "choices": [
-    "إنتبه ممر للمشاة",
-    "نهاية طريق للمشاة",
-    "إنتبه ممنوع مرور المشاة"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 273,
-  "question": "",
-  "image": "assets/signs/sign-078.png",
-  "choices": [
-    "ممر مخصص للدراجات",
-    "حلبة مخصصة للدراجات الهوائية",
-    "يمنع ركوب الدراجات الهوائية"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 274,
-  "question": "",
-  "image": "assets/signs/sign-079.png",
-  "choices": [
-    "نقطة التقاء خطين",
-    "طريق يصل بخط رئيسي",
-    "طريق غير نافذ"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 275,
-  "question": "",
-  "image": "assets/signs/sign-080.png",
-  "choices": [
-    "إنتبه مدرج طيران",
-    "إنتبه جسر",
-    "أوتوستراد"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 276,
-  "question": "",
-  "image": "assets/signs/sign-081.png",
-  "choices": [
-    "جسر فوق الطريق",
-    "نهاية الأوتوستراد",
-    "إنتبه طريق ضيق"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 277,
-  "question": "",
-  "image": "assets/signs/sign-082.png",
-  "choices": [
-    "إنتبه طريق وعرة",
-    "جسر",
-    "نفق"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 278,
-  "question": "",
-  "image": "assets/signs/sign-083.png",
-  "choices": [
-    "مركز نجدة - مساعدة",
-    "موقف مخصص للمعاقين",
-    "للأطباء فقط"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 279,
-  "question": "",
-  "image": "assets/signs/sign-084.png",
-  "choices": [
-    "موقف مخصص للمعوقين",
-    "موقف لحظة",
-    "ممنوع وقوف المعاقين"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 280,
-  "question": "",
-  "image": "assets/signs/sign-085.png",
-  "choices": [
-    "موقف",
-    "موقف لحظة",
-    "ممنوع الوقوف"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 281,
-  "question": "",
-  "image": "assets/signs/sign-086.png",
-  "choices": [
-    "موقف للعموم - ممنوع للتاكسي أكثر من سيارتين",
-    "ممنوع وقوف سيارات التاكسي",
-    "موقف تاكسي"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 282,
-  "question": "",
-  "image": "assets/signs/sign-087.png",
-  "choices": [
-    "إزالة فورية",
-    "شرطة",
-    "استعلامات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 283,
-  "question": "",
-  "image": "assets/signs/sign-088.png",
-  "choices": [
-    "مركز إنترنت",
-    "محطة وقود",
-    "استعلامات"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 284,
-  "question": "",
-  "image": "assets/signs/sign-089.png",
-  "choices": [
-    "موقف مخصص للشرطة",
-    "إطفاء",
-    "شرطة البلدية"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 285,
-  "question": "",
-  "image": "assets/signs/sign-090.png",
-  "choices": [
-    "خط الطريق الرئيسية",
-    "تقاطع خطر",
-    "إنعطاف غير مباشر إلى اليسار"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 286,
-  "question": "",
-  "image": "assets/signs/sign-091.png",
-  "choices": [
-    "ممنوع الوقوف",
-    "موقف",
-    "موقف لحظة"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 287,
-  "question": "",
-  "image": "assets/signs/sign-092.png",
-  "choices": [
-    "مركز للتصليح",
-    "مطعم",
-    "فندق"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 288,
-  "question": "",
-  "image": "assets/signs/sign-093.png",
-  "choices": [
-    "إستعلامات",
-    "مطعم",
-    "مرطبات"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 289,
-  "question": "",
-  "image": "assets/signs/sign-094.png",
-  "choices": [
-    "هاتف",
-    "مطعم",
-    "محطة وقود"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 290,
-  "question": "",
-  "image": "assets/signs/sign-095.png",
-  "choices": [
-    "محطة وقود",
-    "مركز للتصليح",
-    "مطعم"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 291,
-  "question": "",
-  "image": "assets/signs/sign-096.png",
-  "choices": [
-    "خط سير مخصص للباصات",
-    "ممنوع وقوف الباصات",
-    "موقف باص"
-  ],
-  "correctIndex": 2
-},
-{
-  "id": 292,
-  "question": "",
-  "image": "assets/signs/sign-097.png",
-  "choices": [
-    "موقع توقف ونداء ومساعدة",
-    "موقع للمقطورات والخيم",
-    "ممنوع الوقوف"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 293,
-  "question": "",
-  "image": "assets/signs/sign-098.png",
-  "choices": [
-    "إنعطاف",
-    "خفف السرعة",
-    "إنعطاف غير مباشر إلى اليسار"
-  ],
-  "correctIndex": 0
-},
-{
-  "id": 294,
-  "question": "",
-  "image": "assets/signs/sign-099.png",
-  "choices": [
-    "إنعطاف",
-    "خفف السرعة",
-    "إنعطاف غير مباشر إلى اليسار"
-  ],
-  "correctIndex": 1
-},
-{
-  "id": 295,
-  "question": "",
-  "image": "assets/signs/sign-100.png",
-  "choices": [
-    "إنتبه منعطف يمين",
-    "إنتبه مطبات",
-    "إنتبه انخفاضات"
-  ],
-  "correctIndex": 1
-}
+    "id": 195,
+    "question": "",
+    "image": "assets/signs/sign-000.png",
+    "choices": [
+      "إنتبه مطبات",
+      "إنتبه طريق منزلق",
+      "إنتبه انخفاضات"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution: bumps",
+      "Caution: slippery road",
+      "Caution: dips"
+    ]
+  },
+  {
+    "id": 196,
+    "question": "",
+    "image": "assets/signs/sign-001.png",
+    "choices": [
+      "اتجاه مستديرة",
+      "إنتبه منعطف يسار",
+      "إنتبه منعطف يمين"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Roundabout ahead",
+      "Caution: bend to the left",
+      "Caution: bend to the right"
+    ]
+  },
+  {
+    "id": 197,
+    "question": "",
+    "image": "assets/signs/sign-002.png",
+    "choices": [
+      "إنتبه منعطف يسار",
+      "إنتبه منعطف يمين",
+      "اتجاه اختياري إلى اليسار"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution: bend to the left",
+      "Caution: bend to the right",
+      "Optional direction to the left"
+    ]
+  },
+  {
+    "id": 198,
+    "question": "",
+    "image": "assets/signs/sign-003.png",
+    "choices": [
+      "إنتبه منطقة سير على خطين",
+      "إنتبه منعطفان أولهما يسار",
+      "إنتبه منعطفان أولهما يمين"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution: two-way traffic area",
+      "Caution: double bend, first to the left",
+      "Caution: double bend, first to the right"
+    ]
+  },
+  {
+    "id": 199,
+    "question": "",
+    "image": "assets/signs/sign-004.png",
+    "choices": [
+      "إنتبه منطقة سير على خطين",
+      "إنتبه منعطفان أولهما يسار",
+      "إنتبه منعطفان أولهما يمين"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Caution: two-way traffic area",
+      "Caution: double bend, first to the left",
+      "Caution: double bend, first to the right"
+    ]
+  },
+  {
+    "id": 200,
+    "question": "",
+    "image": "assets/signs/sign-005.png",
+    "choices": [
+      "إنتبه طريق ضيق",
+      "إنتبه منحدر خطر",
+      "إنتبه طريق منزلق"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution: narrow road",
+      "Caution: dangerous descent",
+      "Caution: slippery road"
+    ]
+  },
+  {
+    "id": 201,
+    "question": "",
+    "image": "assets/signs/sign-006.png",
+    "choices": [
+      "ممر غير مؤمن",
+      "إنتبه أولاد أو مدرسة",
+      "ممنوع المرور"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Unguarded crossing",
+      "Caution: children or school",
+      "No entry"
+    ]
+  },
+  {
+    "id": 202,
+    "question": "",
+    "image": "assets/signs/sign-007.png",
+    "choices": [
+      "حيوانات مشردة",
+      "إنتبه حيوانات",
+      "ممنوع الحيوانات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Stray animals",
+      "Caution: animals",
+      "No animals"
+    ]
+  },
+  {
+    "id": 203,
+    "question": "",
+    "image": "assets/signs/sign-008.png",
+    "choices": [
+      "إنتبه منطقة سير على خطين",
+      "إنتبه تقاطع مع طرقات بدون أفضلية",
+      "منطقة سير على اليمين"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution: two-way traffic area",
+      "Caution: intersection with roads without right of way",
+      "Drive on the right area"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "",
+    "image": "assets/signs/sign-009.png",
+    "choices": [
+      "إنتبه مستديرة",
+      "ممنوع الإلتفاف",
+      "إنتبه أخطار متنوعة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution: roundabout",
+      "No U-turn",
+      "Caution: various hazards"
+    ]
+  },
+  {
+    "id": 205,
+    "question": "",
+    "image": "assets/signs/sign-010.png",
+    "choices": [
+      "إنتبه تقاطع",
+      "إنتبه تقاطع مع طرقات بدون أفضلية",
+      "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution: intersection",
+      "Caution: intersection with roads without right of way",
+      "Caution: give right of way to oncoming vehicles"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "",
+    "image": "assets/signs/sign-011.png",
+    "choices": [
+      "إنتبه تقاطع مع طرقات بدون أفضلية",
+      "إلتقاء مع طريق سريع",
+      "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution: intersection with roads without right of way",
+      "Junction with a fast road",
+      "Caution: give right of way to oncoming vehicles"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "",
+    "image": "assets/signs/sign-012.png",
+    "choices": [
+      "إنتبه تقاطع على اليمين",
+      "إنتبه تقاطع مع طرقات بدون أفضلية",
+      "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Caution: intersection on the right",
+      "Caution: intersection with roads without right of way",
+      "Caution: give right of way to oncoming vehicles"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "",
+    "image": "assets/signs/sign-013.png",
+    "choices": [
+      "طريق أفضلية",
+      "نهاية تحديد السرعة",
+      "موقف لحظة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Priority road",
+      "End of speed limit",
+      "Brief stop"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "",
+    "image": "assets/signs/sign-014.png",
+    "choices": [
+      "إنتبه ممر للمشاة",
+      "ممنوع مرور المشاة",
+      "ممر غير مخصص للمشاة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution: pedestrian crossing",
+      "No pedestrians",
+      "Crossing not designated for pedestrians"
+    ]
+  },
+  {
+    "id": 210,
+    "question": "",
+    "image": "assets/signs/sign-015.png",
+    "choices": [
+      "إنتبه ممر للدراجات",
+      "ممنوع مرور الدراجات",
+      "ممر لعربات اليد"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution: bicycle crossing",
+      "No bicycles",
+      "Crossing for handcarts"
+    ]
+  },
+  {
+    "id": 211,
+    "question": "",
+    "image": "assets/signs/sign-016.png",
+    "choices": [
+      "إنتبه طريق واسع",
+      "إنتبه طريق ضيق على اليسار",
+      "إنتبه طريق ضيق"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution: wide road",
+      "Caution: narrow road on the left",
+      "Caution: narrow road"
+    ]
+  },
+  {
+    "id": 212,
+    "question": "",
+    "image": "assets/signs/sign-017.png",
+    "choices": [
+      "أفضلية مرور لليمين",
+      "إنتبه طريق ضيق على اليسار",
+      "طريق ضيق على اليمين"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Right of way to the right",
+      "Caution: narrow road on the left",
+      "Narrow road on the right"
+    ]
+  },
+  {
+    "id": 213,
+    "question": "",
+    "image": "assets/signs/sign-018.png",
+    "choices": [
+      "أفضلية المرور للسيارات المتجهة من الجهة المقابلة",
+      "نهاية الأفضلية",
+      "إنتبه طريق ضيق على اليمين"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Right of way for oncoming vehicles",
+      "End of right of way",
+      "Caution: narrow road on the right"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "",
+    "image": "assets/signs/sign-019.png",
+    "choices": [
+      "إنتبه طريق ضيق",
+      "منطقة جبلية",
+      "انتبه احتمال سقوط أو وجود صخور"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution: narrow road",
+      "Mountainous area",
+      "Caution: possible falling or presence of rocks"
+    ]
+  },
+  {
+    "id": 215,
+    "question": "",
+    "image": "assets/signs/sign-020.png",
+    "choices": [
+      "ممنوع الدخول لعموم السيارات",
+      "إنتبه إشارات كهربائية",
+      "إنتبه مستديرة"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No entry for all vehicles",
+      "Caution: traffic lights",
+      "Caution: roundabout"
+    ]
+  },
+  {
+    "id": 216,
+    "question": "",
+    "image": "assets/signs/sign-021.png",
+    "choices": [
+      "ممنوع المرور",
+      "إنتبه أفسح الطريق - طريق أفضلية أمامك",
+      "إنتبه مخاطر متنوعة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No entry",
+      "Caution: give way - priority road ahead",
+      "Caution: various hazards"
+    ]
+  },
+  {
+    "id": 217,
+    "question": "",
+    "image": "assets/signs/sign-022.png",
+    "choices": [
+      "ممنوع المرور",
+      "أفسح الطريق - طريق أفضلية أمامك",
+      "إنتبه مخاطر متنوعة"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No entry",
+      "Give way - priority road ahead",
+      "Caution: various hazards"
+    ]
+  },
+  {
+    "id": 218,
+    "question": "",
+    "image": "assets/signs/sign-023.png",
+    "choices": [
+      "ممنوع المرور",
+      "نهاية الأفضلية",
+      "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No entry",
+      "End of right of way",
+      "Caution: give right of way to oncoming vehicles"
+    ]
+  },
+  {
+    "id": 219,
+    "question": "",
+    "image": "assets/signs/sign-024.png",
+    "choices": [
+      "ممنوع التجاوز لجميع المركبات",
+      "نهاية الأفضلية",
+      "إنتبه أفضلية المرور للسيارات المتجهة من الجهة المقابلة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No overtaking for all vehicles",
+      "End of right of way",
+      "Caution: give right of way to oncoming vehicles"
+    ]
+  },
+  {
+    "id": 220,
+    "question": "",
+    "image": "assets/signs/sign-025.png",
+    "choices": [
+      "قف",
+      "ممنوع الدخول",
+      "طريق على خط واحد"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Stop",
+      "No entry",
+      "One-lane road"
+    ]
+  },
+  {
+    "id": 221,
+    "question": "",
+    "image": "assets/signs/sign-026.png",
+    "choices": [
+      "ممنوع الدخول لعموم السيارات",
+      "طريق على خط واحد",
+      "ممنوع الوقوف"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "No entry for all vehicles",
+      "One-lane road",
+      "No parking"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "",
+    "image": "assets/signs/sign-027.png",
+    "choices": [
+      "ممنوع الوقوف",
+      "أخطار متنوعة",
+      "ممنوع المرور"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking",
+      "Various hazards",
+      "No entry"
+    ]
+  },
+  {
+    "id": 223,
+    "question": "",
+    "image": "assets/signs/sign-028.png",
+    "choices": [
+      "ممنوع التجاوز للشاحنات",
+      "ممنوع المرور",
+      "ممنوع التجاوز لجميع المركبات"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No overtaking for trucks",
+      "No entry",
+      "No overtaking for all vehicles"
+    ]
+  },
+  {
+    "id": 224,
+    "question": "",
+    "image": "assets/signs/sign-029.png",
+    "choices": [
+      "السرعة 80 كلم في الساعة",
+      "إنتبه أفسح الطريق - طريق أفضلية أمامك",
+      "السرعة القصوى 30 كلم في الساعة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Speed 80 km per hour",
+      "Caution: give way - priority road ahead",
+      "Maximum speed 30 km per hour"
+    ]
+  },
+  {
+    "id": 225,
+    "question": "",
+    "image": "assets/signs/sign-030.png",
+    "choices": [
+      "مسرح",
+      "ممنوع الوقوف",
+      "ممنوع التزمير"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Theatre",
+      "No parking",
+      "No honking"
+    ]
+  },
+  {
+    "id": 226,
+    "question": "",
+    "image": "assets/signs/sign-031.png",
+    "choices": [
+      "طريق مخصص للشاحنات",
+      "ممنوع التجاوز للشاحنات",
+      "مسموح التجاوز للشاحنات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Road designated for trucks",
+      "No overtaking for trucks",
+      "Overtaking allowed for trucks"
+    ]
+  },
+  {
+    "id": 227,
+    "question": "",
+    "image": "assets/signs/sign-032.png",
+    "choices": [
+      "مسموح مرور عربات الحيوانات",
+      "ممنوع مرور المشاة",
+      "ممنوع مرور عربات الحيوانات"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Animal-drawn carts allowed",
+      "No pedestrians",
+      "No animal-drawn carts"
+    ]
+  },
+  {
+    "id": 228,
+    "question": "",
+    "image": "assets/signs/sign-033.png",
+    "choices": [
+      "ممنوع مرور المشاة",
+      "إنتبه طريق مخصص للمشاة",
+      "ممنوع مرور السيارات"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "No pedestrians",
+      "Caution: road designated for pedestrians",
+      "No motor vehicles"
+    ]
+  },
+  {
+    "id": 229,
+    "question": "",
+    "image": "assets/signs/sign-034.png",
+    "choices": [
+      "ممنوع المرور للدراجات",
+      "ممر إجباري للسيارات",
+      "طريق مخصص للدراجات"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "No entry for bicycles",
+      "Mandatory lane for motor vehicles",
+      "Road designated for bicycles"
+    ]
+  },
+  {
+    "id": 230,
+    "question": "",
+    "image": "assets/signs/sign-035.png",
+    "choices": [
+      "طريق مخصص للدراجات النارية",
+      "ممر خاص للدراجات النارية",
+      "ممنوع المرور للدراجات النارية"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Road designated for motorcycles",
+      "Special lane for motorcycles",
+      "No entry for motorcycles"
+    ]
+  },
+  {
+    "id": 231,
+    "question": "",
+    "image": "assets/signs/sign-036.png",
+    "choices": [
+      "ممنوع وقوف عربات اليد",
+      "طريق مخصص لعربات اليد",
+      "ممنوع مرور عربات اليد"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking for handcarts",
+      "Road designated for handcarts",
+      "No entry for handcarts"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "",
+    "image": "assets/signs/sign-037.png",
+    "choices": [
+      "ممنوع وقوف السيارات",
+      "ممنوع المرور لعموم السيارات",
+      "طريق مخصص للسيارات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No parking for vehicles",
+      "No entry for all vehicles",
+      "Road designated for vehicles"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "",
+    "image": "assets/signs/sign-038.png",
+    "choices": [
+      "ممنوع مرور الشاحنات",
+      "ممنوع مرور الشاحنات التي يزيد طولها عن 2,3 متر",
+      "ممنوع مرور السيارات التي يزيد عرضها عن 2,3 متر"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No entry for trucks",
+      "No entry for trucks longer than 2.3 metres",
+      "No entry for vehicles wider than 2.3 metres"
+    ]
+  },
+  {
+    "id": 234,
+    "question": "",
+    "image": "assets/signs/sign-039.png",
+    "choices": [
+      "ممنوع مرور الشاحنات التي يزيد وزنها عن 3,5 طن",
+      "ممنوع مرور الشاحنات التي يفوق علوها عن 3,5 متر",
+      "اتجاه إجباري للشاحنات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No entry for trucks weighing more than 3.5 tonnes",
+      "No entry for trucks higher than 3.5 metres",
+      "Mandatory direction for trucks"
+    ]
+  },
+  {
+    "id": 235,
+    "question": "",
+    "image": "assets/signs/sign-040.png",
+    "choices": [
+      "ممنوع زيادة الحمولة أكثر من 10 أمتار",
+      "ممنوع مرور الشاحنات التي يفوق طولها عن 10 أمتار",
+      "ممنوع مرور الشاحنات التي تزيد حمولتها عن 6,5 طن"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No load exceeding 10 metres",
+      "No entry for trucks longer than 10 metres",
+      "No entry for trucks with a load exceeding 6.5 tonnes"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "",
+    "image": "assets/signs/sign-041.png",
+    "choices": [
+      "ممنوع مرور الشاحنات التي يفوق علوها عن 7 أمتار",
+      "ممنوع مرور الشاحنات التي تزيد حمولة مل دولاب منها عن 7 طن",
+      "ممنوع مرور الشاحنات التي تزيد حمولتها عن 7 طن"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No entry for trucks higher than 7 metres",
+      "No entry for trucks with a load per wheel exceeding 7 tonnes",
+      "No entry for trucks with a load exceeding 7 tonnes"
+    ]
+  },
+  {
+    "id": 237,
+    "question": "",
+    "image": "assets/signs/sign-042.png",
+    "choices": [
+      "ممنوع السرعة",
+      "بداية الإشارات الممنوعة",
+      "نهاية الإشارات الممنوعة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No speed",
+      "Start of prohibitory signs",
+      "End of prohibitory signs"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "",
+    "image": "assets/signs/sign-043.png",
+    "choices": [
+      "نهاية تحديد السرعة",
+      "تحديد السرعة",
+      "بداية تحديد السرعة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "End of speed limit",
+      "Speed limit",
+      "Start of speed limit"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "",
+    "image": "assets/signs/sign-044.png",
+    "choices": [
+      "الإلتفاف على اليمين",
+      "ممنوع الإلتفاف على اليمين",
+      "اتجاه إجباري على اليسار"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Turn to the right",
+      "No turning to the right",
+      "Mandatory direction to the left"
+    ]
+  },
+  {
+    "id": 240,
+    "question": "",
+    "image": "assets/signs/sign-045.png",
+    "choices": [
+      "ممنوع الإلتفاف على اليسار",
+      "الإلتفاف على اليسار",
+      "اتجاه اختياري مستقيم أو يمين"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No turning to the left",
+      "Turn to the left",
+      "Optional direction: straight or right"
+    ]
+  },
+  {
+    "id": 241,
+    "question": "",
+    "image": "assets/signs/sign-046.png",
+    "choices": [
+      "ممنوع المرور يمين ويسار",
+      "اتجاه اختياري يمين ويسار",
+      "اتجاه إجباري مستقيم"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No turning right or left",
+      "Optional direction right or left",
+      "Mandatory direction straight ahead"
+    ]
+  },
+  {
+    "id": 242,
+    "question": "",
+    "image": "assets/signs/sign-047.png",
+    "choices": [
+      "اتجاه إجباري للشاحنات لجهة اليمين",
+      "ممنوع الاتجاه نحو اليسار",
+      "اتجاه اختياري يمين أو مستقيم"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Mandatory direction for trucks to the right",
+      "No turning left",
+      "Optional direction right or straight ahead"
+    ]
+  },
+  {
+    "id": 243,
+    "question": "",
+    "image": "assets/signs/sign-048.png",
+    "choices": [
+      "اتجاه اختياري مستقيم أو يسار",
+      "ممر إجباري نحو اليسار",
+      "ممنوع الاتجاه نحو اليسار"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Optional direction straight ahead or left",
+      "Mandatory lane to the left",
+      "No turning left"
+    ]
+  },
+  {
+    "id": 244,
+    "question": "",
+    "image": "assets/signs/sign-049.png",
+    "choices": [
+      "اتجاه اختياري نحو اليمين",
+      "خط الطريق الرئيسية",
+      "ممر إجباري نحو اليسار"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Optional direction to the right",
+      "Main road line",
+      "Mandatory lane to the left"
+    ]
+  },
+  {
+    "id": 245,
+    "question": "",
+    "image": "assets/signs/sign-050.png",
+    "choices": [
+      "ممنوع الالتفاف إلى اليمين",
+      "ممر إجباري يمين",
+      "اتجاه اختياري مستقيم"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No turning right",
+      "Mandatory lane to the right",
+      "Optional direction straight ahead"
+    ]
+  },
+  {
+    "id": 246,
+    "question": "",
+    "image": "assets/signs/sign-051.png",
+    "choices": [
+      "اتجاه اختياري نحو اليمين",
+      "ممر إجباري يمين أو يسار",
+      "ممنوع الالتفاف يمين أو يسار"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Optional direction to the right",
+      "Mandatory lane right or left",
+      "No turning right or left"
+    ]
+  },
+  {
+    "id": 247,
+    "question": "",
+    "image": "assets/signs/sign-052.png",
+    "choices": [
+      "طريق للمشاة والدراجات الهوائية",
+      "طريق مخصص للدراجات الهوائية",
+      "نهاية حلبة الدراجات الهوائية"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Path for pedestrians and bicycles",
+      "Path reserved for bicycles",
+      "End of bicycle track"
+    ]
+  },
+  {
+    "id": 248,
+    "question": "",
+    "image": "assets/signs/sign-053.png",
+    "choices": [
+      "طريق للمشاة والدراجات فقط",
+      "نهاية حلبة الدراجات الهوائية",
+      "ممنوع مرور المشاة والدراجات الهوائية"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Path for pedestrians and bicycles only",
+      "End of bicycle track",
+      "No pedestrians or bicycles"
+    ]
+  },
+  {
+    "id": 249,
+    "question": "",
+    "image": "assets/signs/sign-054.png",
+    "choices": [
+      "وجهة السير",
+      "اتجاه إجباري يمين",
+      "ممنوع الالتفاف يميناً"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Direction of travel",
+      "Mandatory direction right",
+      "No turning right"
+    ]
+  },
+  {
+    "id": 250,
+    "question": "",
+    "image": "assets/signs/sign-055.png",
+    "choices": [
+      "وجهة السير",
+      "الالتفاف الزامي",
+      "ممنوع الالتفاف"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Direction of travel",
+      "Mandatory turn",
+      "No turning"
+    ]
+  },
+  {
+    "id": 251,
+    "question": "",
+    "image": "assets/signs/sign-056.png",
+    "choices": [
+      "نهاية منع تجاوز الأوتوبيسات",
+      "ممنوع مرور الأوتوبيسات",
+      "طريق مخصص للأوتوبيسات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "End of no overtaking for buses",
+      "No buses",
+      "Road reserved for buses"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "",
+    "image": "assets/signs/sign-057.png",
+    "choices": [
+      "ممنوع مرور الشاحنات التي يزيد وزنها عن 6,5 طن",
+      "طريق مخصص للشاحنات",
+      "ممنوع مرور الشاحنات"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No trucks exceeding 6.5 tons in weight",
+      "Road reserved for trucks",
+      "No trucks"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "",
+    "image": "assets/signs/sign-058.png",
+    "choices": [
+      "ممنوع وقوف الشاحنات",
+      "طريق الزامي للشاحنات",
+      "ممنوع مرور الشاحنات التي تزيد حمولتها عن 6,5 طن"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking for trucks",
+      "Mandatory road for trucks",
+      "No trucks with a load exceeding 6.5 tons"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "",
+    "image": "assets/signs/sign-059.png",
+    "choices": [
+      "ممنوع مرور الشاحنات التي تجر قاطرة",
+      "طريق الزامي للشاحنات",
+      "ممنوع مرور الشاحنات المحملة مواد خطرة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "No trucks towing a trailer",
+      "Mandatory road for trucks",
+      "No trucks carrying dangerous goods"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "",
+    "image": "assets/signs/sign-060.png",
+    "choices": [
+      "موقف لحظة للآليات الزراعية",
+      "طريق مخصص للآليات الزراعية",
+      "ممنوع مرور الآليات الزراعية"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Short stop for agricultural vehicles",
+      "Road reserved for agricultural vehicles",
+      "No agricultural vehicles"
+    ]
+  },
+  {
+    "id": 256,
+    "question": "",
+    "image": "assets/signs/sign-061.png",
+    "choices": [
+      "إنتبه منطقة سير على خطين",
+      "نهاية منع التجاوز",
+      "نهاية منع تجاوز الشاحنات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Caution, two-lane traffic area",
+      "End of no overtaking",
+      "End of no overtaking for trucks"
+    ]
+  },
+  {
+    "id": 257,
+    "question": "",
+    "image": "assets/signs/sign-062.png",
+    "choices": [
+      "نهاية منع تجاوز الشاحنات",
+      "إنتبه منطقة سير على خطين",
+      "طريق مخصص للشاحنات فقط"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "End of no overtaking for trucks",
+      "Caution, two-lane traffic area",
+      "Road reserved for trucks only"
+    ]
+  },
+  {
+    "id": 258,
+    "question": "",
+    "image": "assets/signs/sign-063.png",
+    "choices": [
+      "ممنوع الوقوف",
+      "ممنوع التجاوز لجميع المركبات",
+      "ممنوع المرور"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "No stopping",
+      "No overtaking for all vehicles",
+      "No entry"
+    ]
+  },
+  {
+    "id": 259,
+    "question": "",
+    "image": "assets/signs/sign-064.png",
+    "choices": [
+      "ممنوع الوقوف والتوقف",
+      "ممنوع الوقوف",
+      "ممنوع المرور"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "No stopping or standing",
+      "No parking",
+      "No entry"
+    ]
+  },
+  {
+    "id": 260,
+    "question": "",
+    "image": "assets/signs/sign-065.png",
+    "choices": [
+      "ممنوع الوقوف في هذا المكان",
+      "ممنوع المرور بهذا الاتجاه",
+      "اتجاه إجباري مستقيم"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking in this place",
+      "No entry in this direction",
+      "Mandatory direction straight ahead"
+    ]
+  },
+  {
+    "id": 261,
+    "question": "",
+    "image": "assets/signs/sign-066.png",
+    "choices": [
+      "ممنوع الوقوف يساراً",
+      "وجهة السير إلى اليسار",
+      "ممنوع الاتجاه نحو اليسار"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No parking on the left",
+      "Direction of travel to the left",
+      "No turning left"
+    ]
+  },
+  {
+    "id": 262,
+    "question": "",
+    "image": "assets/signs/sign-067.png",
+    "choices": [
+      "وجهة السير إلى اليمين",
+      "ممنوع الوقوف ناحية اليمين",
+      "ممنوع الاتجاه نحو اليمين"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Direction of travel to the right",
+      "No parking on the right",
+      "No turning right"
+    ]
+  },
+  {
+    "id": 263,
+    "question": "",
+    "image": "assets/signs/sign-068.png",
+    "choices": [
+      "موقع توقف",
+      "وجهة سير مستديرة",
+      "ممنوع الإلتفاف"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Parking area",
+      "Roundabout direction of travel",
+      "No turning"
+    ]
+  },
+  {
+    "id": 264,
+    "question": "",
+    "image": "assets/signs/sign-069.png",
+    "choices": [
+      "ممنوع الوقوف أكثر من ثلاثين دقيقة",
+      "أقصى سرعة إجبارية",
+      "أدنى سرعة إجبارية"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking for more than thirty minutes",
+      "Maximum mandatory speed",
+      "Minimum mandatory speed"
+    ]
+  },
+  {
+    "id": 265,
+    "question": "",
+    "image": "assets/signs/sign-070.png",
+    "choices": [
+      "ممنوع الوقوف أكثر من ثلاثين دقيقة",
+      "السرعة القصوى 30",
+      "نهاية أدنى سرعة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking for more than thirty minutes",
+      "Maximum speed 30",
+      "End of minimum speed"
+    ]
+  },
+  {
+    "id": 266,
+    "question": "",
+    "image": "assets/signs/sign-071.png",
+    "choices": [
+      "إنتبه طريق منزلق",
+      "يجب نزع السلاسل المعدنية",
+      "السيارات المجهزة بسلاسل معدنية فقط"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution, slippery road",
+      "Snow chains must be removed",
+      "Vehicles fitted with snow chains only"
+    ]
+  },
+  {
+    "id": 267,
+    "question": "",
+    "image": "assets/signs/sign-072.png",
+    "choices": [
+      "متنزّه",
+      "طريق للمشاة",
+      "ممنوع المرور للمشاة"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Park",
+      "Pedestrian path",
+      "No pedestrians"
+    ]
+  },
+  {
+    "id": 268,
+    "question": "",
+    "image": "assets/signs/sign-073.png",
+    "choices": [
+      "طريق مخصص للمشاة",
+      "ممر للمشاة فوق الطريق",
+      "نهاية طريق للمشاة"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Path reserved for pedestrians",
+      "Pedestrian crossing over the road",
+      "End of pedestrian path"
+    ]
+  },
+  {
+    "id": 269,
+    "question": "",
+    "image": "assets/signs/sign-074.png",
+    "choices": [
+      "ممنوع وقوف الدراجات الهوائية",
+      "ممنوع مرور الدراجات الهوائية",
+      "حلبة مخصصة للدراجات الهوائية"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "No parking for bicycles",
+      "No bicycles",
+      "Track reserved for bicycles"
+    ]
+  },
+  {
+    "id": 270,
+    "question": "",
+    "image": "assets/signs/sign-075.png",
+    "choices": [
+      "اتجاه إلزامي يساراً",
+      "ممنوع الإلتفاف يساراً",
+      "ممنوع الوقوف يساراً"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Mandatory direction left",
+      "No turning left",
+      "No parking on the left"
+    ]
+  },
+  {
+    "id": 271,
+    "question": "",
+    "image": "assets/signs/sign-076.png",
+    "choices": [
+      "إنتبه جسر متحرك",
+      "طريق على خطين موصول بجسر",
+      "مستشفى"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution, movable bridge",
+      "Two-lane road connected by a bridge",
+      "Hospital"
+    ]
+  },
+  {
+    "id": 272,
+    "question": "",
+    "image": "assets/signs/sign-077.png",
+    "choices": [
+      "إنتبه ممر للمشاة",
+      "نهاية طريق للمشاة",
+      "إنتبه ممنوع مرور المشاة"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Caution, pedestrian crossing",
+      "End of pedestrian path",
+      "Caution, no pedestrians"
+    ]
+  },
+  {
+    "id": 273,
+    "question": "",
+    "image": "assets/signs/sign-078.png",
+    "choices": [
+      "ممر مخصص للدراجات",
+      "حلبة مخصصة للدراجات الهوائية",
+      "يمنع ركوب الدراجات الهوائية"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Lane reserved for bicycles",
+      "Track reserved for bicycles",
+      "Riding bicycles is prohibited"
+    ]
+  },
+  {
+    "id": 274,
+    "question": "",
+    "image": "assets/signs/sign-079.png",
+    "choices": [
+      "نقطة التقاء خطين",
+      "طريق يصل بخط رئيسي",
+      "طريق غير نافذ"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Junction of two roads",
+      "Road connecting to a main road",
+      "Dead-end road"
+    ]
+  },
+  {
+    "id": 275,
+    "question": "",
+    "image": "assets/signs/sign-080.png",
+    "choices": [
+      "إنتبه مدرج طيران",
+      "إنتبه جسر",
+      "أوتوستراد"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution, airport runway",
+      "Caution, bridge",
+      "Motorway"
+    ]
+  },
+  {
+    "id": 276,
+    "question": "",
+    "image": "assets/signs/sign-081.png",
+    "choices": [
+      "جسر فوق الطريق",
+      "نهاية الأوتوستراد",
+      "إنتبه طريق ضيق"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Bridge over the road",
+      "End of motorway",
+      "Caution, narrow road"
+    ]
+  },
+  {
+    "id": 277,
+    "question": "",
+    "image": "assets/signs/sign-082.png",
+    "choices": [
+      "إنتبه طريق وعرة",
+      "جسر",
+      "نفق"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Caution, rough road",
+      "Bridge",
+      "Tunnel"
+    ]
+  },
+  {
+    "id": 278,
+    "question": "",
+    "image": "assets/signs/sign-083.png",
+    "choices": [
+      "مركز نجدة - مساعدة",
+      "موقف مخصص للمعاقين",
+      "للأطباء فقط"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "First aid - assistance center",
+      "Parking reserved for the disabled",
+      "For doctors only"
+    ]
+  },
+  {
+    "id": 279,
+    "question": "",
+    "image": "assets/signs/sign-084.png",
+    "choices": [
+      "موقف مخصص للمعوقين",
+      "موقف لحظة",
+      "ممنوع وقوف المعاقين"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Parking reserved for the disabled",
+      "Short stop",
+      "No parking for the disabled"
+    ]
+  },
+  {
+    "id": 280,
+    "question": "",
+    "image": "assets/signs/sign-085.png",
+    "choices": [
+      "موقف",
+      "موقف لحظة",
+      "ممنوع الوقوف"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Parking",
+      "Short stop",
+      "No parking"
+    ]
+  },
+  {
+    "id": 281,
+    "question": "",
+    "image": "assets/signs/sign-086.png",
+    "choices": [
+      "موقف للعموم - ممنوع للتاكسي أكثر من سيارتين",
+      "ممنوع وقوف سيارات التاكسي",
+      "موقف تاكسي"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Public parking - no more than two taxis",
+      "No parking for taxis",
+      "Taxi stand"
+    ]
+  },
+  {
+    "id": 282,
+    "question": "",
+    "image": "assets/signs/sign-087.png",
+    "choices": [
+      "إزالة فورية",
+      "شرطة",
+      "استعلامات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Immediate removal",
+      "Police",
+      "Information"
+    ]
+  },
+  {
+    "id": 283,
+    "question": "",
+    "image": "assets/signs/sign-088.png",
+    "choices": [
+      "مركز إنترنت",
+      "محطة وقود",
+      "استعلامات"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Internet center",
+      "Fuel station",
+      "Information"
+    ]
+  },
+  {
+    "id": 284,
+    "question": "",
+    "image": "assets/signs/sign-089.png",
+    "choices": [
+      "موقف مخصص للشرطة",
+      "إطفاء",
+      "شرطة البلدية"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Parking reserved for police",
+      "Fire station",
+      "Municipal police"
+    ]
+  },
+  {
+    "id": 285,
+    "question": "",
+    "image": "assets/signs/sign-090.png",
+    "choices": [
+      "خط الطريق الرئيسية",
+      "تقاطع خطر",
+      "إنعطاف غير مباشر إلى اليسار"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Main road line",
+      "Dangerous intersection",
+      "Indirect bend to the left"
+    ]
+  },
+  {
+    "id": 286,
+    "question": "",
+    "image": "assets/signs/sign-091.png",
+    "choices": [
+      "ممنوع الوقوف",
+      "موقف",
+      "موقف لحظة"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "No parking",
+      "Parking",
+      "Short stop"
+    ]
+  },
+  {
+    "id": 287,
+    "question": "",
+    "image": "assets/signs/sign-092.png",
+    "choices": [
+      "مركز للتصليح",
+      "مطعم",
+      "فندق"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Repair center",
+      "Restaurant",
+      "Hotel"
+    ]
+  },
+  {
+    "id": 288,
+    "question": "",
+    "image": "assets/signs/sign-093.png",
+    "choices": [
+      "إستعلامات",
+      "مطعم",
+      "مرطبات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Information",
+      "Restaurant",
+      "Refreshments"
+    ]
+  },
+  {
+    "id": 289,
+    "question": "",
+    "image": "assets/signs/sign-094.png",
+    "choices": [
+      "هاتف",
+      "مطعم",
+      "محطة وقود"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Telephone",
+      "Restaurant",
+      "Petrol station"
+    ]
+  },
+  {
+    "id": 290,
+    "question": "",
+    "image": "assets/signs/sign-095.png",
+    "choices": [
+      "محطة وقود",
+      "مركز للتصليح",
+      "مطعم"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Petrol station",
+      "Repair garage",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": 291,
+    "question": "",
+    "image": "assets/signs/sign-096.png",
+    "choices": [
+      "خط سير مخصص للباصات",
+      "ممنوع وقوف الباصات",
+      "موقف باص"
+    ],
+    "correctIndex": 2,
+    "question_en": "",
+    "choices_en": [
+      "Bus lane",
+      "No bus parking",
+      "Bus stop"
+    ]
+  },
+  {
+    "id": 292,
+    "question": "",
+    "image": "assets/signs/sign-097.png",
+    "choices": [
+      "موقع توقف ونداء ومساعدة",
+      "موقع للمقطورات والخيم",
+      "ممنوع الوقوف"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Stopping, emergency call and assistance point",
+      "Caravan and tent site",
+      "No parking"
+    ]
+  },
+  {
+    "id": 293,
+    "question": "",
+    "image": "assets/signs/sign-098.png",
+    "choices": [
+      "إنعطاف",
+      "خفف السرعة",
+      "إنعطاف غير مباشر إلى اليسار"
+    ],
+    "correctIndex": 0,
+    "question_en": "",
+    "choices_en": [
+      "Bend",
+      "Reduce speed",
+      "Indirect turn to the left"
+    ]
+  },
+  {
+    "id": 294,
+    "question": "",
+    "image": "assets/signs/sign-099.png",
+    "choices": [
+      "إنعطاف",
+      "خفف السرعة",
+      "إنعطاف غير مباشر إلى اليسار"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Bend",
+      "Reduce speed",
+      "Indirect turn to the left"
+    ]
+  },
+  {
+    "id": 295,
+    "question": "",
+    "image": "assets/signs/sign-100.png",
+    "choices": [
+      "إنتبه منعطف يمين",
+      "إنتبه مطبات",
+      "إنتبه انخفاضات"
+    ],
+    "correctIndex": 1,
+    "question_en": "",
+    "choices_en": [
+      "Caution: right bend",
+      "Caution: bumps",
+      "Caution: dips"
+    ]
+  }
 ]

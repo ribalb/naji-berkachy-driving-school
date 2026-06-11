@@ -819,6 +819,29 @@ button, .choice, .btn, a {
 }
 
 /* =====================================================
+   LANGUAGE TOGGLE BUTTON
+===================================================== */
+.lang-toggle{
+  position: fixed;
+  top: 14px;
+  inset-inline-end: 14px;   /* right in RTL, right in LTR */
+  z-index: 9999;
+  background: rgba(255,255,255,.92);
+  color: #1e293b;
+  border: 1.5px solid rgba(91,108,255,.45);
+  font-family: inherit;
+  font-weight: 800;
+  font-size: 14px;
+  padding: 9px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0,0,0,.18);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.lang-toggle:active{ transform: scale(.96); }
+
+/* =====================================================
    SIGNS LEARNING PAGE
 ===================================================== */
 .signs-topbar{

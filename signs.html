@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="format-detection" content="telephone=no">
-  <title>تعلم إشارات السير</title>
+  <title data-i18n-title="signs.title">تعلم إشارات السير</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet">
@@ -15,28 +15,31 @@
     <section class="card">
 
       <div class="signs-topbar">
-        <a class="back-btn" href="index.html">→ الرئيسية</a>
+        <a class="back-btn" href="index.html" data-i18n="signs.back">→ الرئيسية</a>
       </div>
 
-      <h1 class="title small">تعلم إشارات السير</h1>
-      <p class="sub">تعرّف على إشارات السير ومعانيها بسهولة</p>
+      <h1 class="title small" data-i18n="signs.title">تعلم إشارات السير</h1>
+      <p class="sub" data-i18n="signs.sub">تعرّف على إشارات السير ومعانيها بسهولة</p>
 
       <input id="search" class="signs-search" type="text" inputmode="search"
+             data-i18n-ph="signs.search"
              placeholder="🔍 ابحث عن إشارة (مثلاً: منعطف، توقف، سرعة)..." />
 
       <div id="count" class="signs-count"></div>
 
       <div id="grid" class="signs-grid"></div>
-      <div id="empty" class="signs-empty hidden">لا توجد نتائج مطابقة للبحث.</div>
+      <div id="empty" class="signs-empty hidden" data-i18n="signs.empty">لا توجد نتائج مطابقة للبحث.</div>
 
     </section>
   </main>
 
+  <script src="i18n.js?v=1"></script>
   <script>
     const gridEl = document.getElementById('grid');
     const countEl = document.getElementById('count');
     const emptyEl = document.getElementById('empty');
     const searchEl = document.getElementById('search');
+    const EN = window.I18N && window.I18N.isEn();
     let signs = [];
 
     function render(list){
@@ -62,13 +65,13 @@
         frag.appendChild(card);
       }
       gridEl.appendChild(frag);
-      countEl.textContent = list.length + ' إشارة';
+      countEl.textContent = list.length + ' ' + (window.I18N ? window.I18N.t('signs.count') : 'إشارة');
     }
 
     function applyFilter(){
-      const q = searchEl.value.trim();
+      const q = searchEl.value.trim().toLowerCase();
       if(!q){ render(signs); return; }
-      const filtered = signs.filter(s => s.meaning.includes(q));
+      const filtered = signs.filter(s => s.meaning.toLowerCase().includes(q));
       render(filtered);
     }
 
@@ -83,13 +86,20 @@
           if(!q.image) continue;
           if(seen.has(q.image)) continue;
           seen.add(q.image);
-          const meaning = (q.choices && q.choices[q.correctIndex]) ? q.choices[q.correctIndex] : '';
+          let meaning = '';
+          if(EN && q.choices_en && q.choices_en[q.correctIndex]){
+            meaning = q.choices_en[q.correctIndex];
+          } else if(q.choices && q.choices[q.correctIndex]){
+            meaning = q.choices[q.correctIndex];
+          }
           signs.push({ image: q.image, meaning });
         }
         render(signs);
       })
       .catch(() => {
-        countEl.textContent = 'تعذّر تحميل الإشارات. حاول تحديث الصفحة.';
+        countEl.textContent = window.I18N && window.I18N.isEn()
+          ? 'Could not load signs. Please refresh.'
+          : 'تعذّر تحميل الإشارات. حاول تحديث الصفحة.';
       });
   </script>
 </body>
